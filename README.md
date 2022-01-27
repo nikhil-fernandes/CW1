@@ -4,5 +4,5 @@ Resources related to a CW project where files detailing the activites of student
 #### data
 Includes the raw csv files detailing each individual's activities
 
-#### data_read_analyse.ipynb
+#### data_processed.ipynb
 Jupyter Notebook going through the process of wrangling each csv into a single object, cleaning and producing some summary visualisations

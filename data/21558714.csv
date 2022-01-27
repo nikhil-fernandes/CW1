@@ -1,0 +1,27 @@
+Primary Activity Code,Secondary Activity Code,Activity ,Start Date,UniBathWeekNo,Day of Week,Start Time,End Time,Duration Mins (longer than 15 mins),Enjoyment Score,Use any device?,What kind of device use with this activity?
+S801,,Sleeping,2021/2/28,22,Sunday,0:30,9:30,540,1,No,
+ED145,S801,Breakfast,2021/2/28,22,Sunday,9:40,10:00,20,2,Yes,Smartphone
+L418,UD415,Watching TV,2021/2/28,22,Sunday,10:00,12:00,120,0,Yes,TV
+ED145,,Lunch,2021/2/28,22,Sunday,13:00,13:50,50,-1,Yes,Tablets
+CW982,UD415,Doing coursework,2021/2/28,22,Sunday,14:00,15:30,90,-1,Yes,Computer
+X893,UD415,Exercise,2021/2/28,22,Sunday,15:40,16:20,40,2,Yes,Smartphone
+EL642,UD415,Online lecture,2021/2/28,22,Sunday,16:30,18:15,105,0,Yes,Computer
+ED145,,Dinner,2021/2/28,22,Sunday,18:30,20:00,90,2,No,
+CW982,UD415,Online lecture,2021/2/28,22,Sunday,20:15,22:00,105,-1,Yes,Computer
+L418,UD415,Playing games,2021/2/28,22,Sunday,22:10,23:30,80,-1,Yes,Computer
+S801,S801,Sleeping,2021/3/2,23,Tuesday,0:30,8:30,480,2,No,
+ED145,,Breakfast,2021/3/2,23,Tuesday,8:45,9:05,20,-1,Yes,Tablets
+L418,UD415,Class,2021/3/2,23,Tuesday,9:15,11:15,120,-1,Yes,Computer
+ED145,,Lunch,2021/3/2,23,Tuesday,11:20,12:10,50,-2,Yes,TV
+L418,UD415,Class,2021/3/2,23,Tuesday,12:15,14:20,125,2,Yes,Computer
+CW982,,Doing coursework,2021/3/2,23,Tuesday,14:35,15:50,75,1,Yes,Computer
+EL642,,Class,2021/3/2,23,Tuesday,18:30,19:30,60,-1,Yes,Computer
+CW982,,Doing coursework,2021/3/2,23,Tuesday,20:00,22:00,120,-2,Yes,Computer
+S801,,Sleeping,2021/3/4,23,Thursday,0:30,9:30,540,0,No,
+ED145,,Breakfast,2021/3/4,23,Thursday,9:40,10:00,20,-1,Yes,Headphones
+L418,UD415,Class,2021/3/4,23,Thursday,10:15,12:15,120,1,Yes,Computer
+ED145,,Lunch,2021/3/4,23,Thursday,13:00,13:50,50,2,Yes,TV
+CW982,UD415,Doing coursework,2021/3/4,23,Thursday,14:00,15:00,60,1,Yes,Computer
+EL642,,Class,2021/3/4,23,Thursday,15:15,17:15,120,-1,Yes,Computer
+X893,,Exercise,2021/3/4,23,Thursday,19:00,19:30,50,2,Yes,Headphones
+CW982,UD415,Class,2021/3/4,23,Thursday,20:15,22:00,120,-2,Yes,Computer

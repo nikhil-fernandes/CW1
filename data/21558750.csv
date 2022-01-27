@@ -1,0 +1,40 @@
+PrimaryActivityCodes,SecondaryActivityCodes,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,StressLevel,ProcrastinationLevel
+S801,,,06/03/21,23,Saturday,00:00,08:00,480,0,0,0
+ED145,,Breakfast,06/03/21,23,Saturday,08:00,08:30,30,1,1,2
+X893,UD415,Run listeneing to podcast,06/03/21,23,Saturday,08:45,09:15,30,0,0,1
+O733,,Shower,06/03/21,23,Saturday,09:15,09:30,15,2,0,0
+EL642,UD415,Online Lecture ICCS,06/03/21,23,Saturday,10:00,11:15,75,1,3,1
+CW982,R523,Reading papers,06/03/21,23,Saturday,11:30,13:30,120,-1,4,4
+L418,UD415,Gaming,06/03/21,23,Saturday,13:30,15:30,120,2,4,1
+ED145,,Small lunch,06/03/21,23,Saturday,15:30,16:00,30,1,3,3
+X893,L418,Walk dogs,06/03/21,23,Saturday,16:00,16:30,30,-1,4,4
+EL642,UD415,Online lecture ML,06/03/21,23,Saturday,16:30,18:30,120,-1,4,4
+CW982,UD415,Programming RL,06/03/21,23,Saturday,18:30,20:00,90,1,1,0
+ED145,,Dinner,06/03/21,23,Saturday,20:15,21:15,60,2,0,1
+CW982,UD415,Programmin ML,06/03/21,23,Saturday,21:30,23:59,149,1,3,2
+S801,,,07/03/21,23,Sunday,00:00,07:30,450,1,0,0
+ED145,,Breakfast,07/03/21,23,Sunday,07:30,07:45,15,-2,3,1
+X893,UD415,Run listening to music,07/03/21,23,Sunday,08:00,08:30,30,0,1,0
+O733,,Shower ,07/03/21,23,Sunday,08:45,09:00,15,0,2,1
+PW101,,Sunday job,07/03/21,23,Sunday,09:30,12:30,180,-2,3,3
+ED145,,Lunch,07/03/21,23,Sunday,12:30,13:30,60,1,2,3
+PW101,,Sunday job,07/03/21,23,Sunday,13:30,17:30,240,-1,4,4
+CW982,UD415,Programming RL,07/03/21,23,Sunday,18:00,20:00,120,1,1,1
+ED145,,Dinner,07/03/21,23,Sunday,08:00,21:00,780,2,0,0
+UD415,,Watch youtube,07/03/21,23,Sunday,21:00,22:00,60,2,3,3
+EL642,UD415,Online lecture ICCS,07/03/21,23,Sunday,22:00,23:45,105,1,2,1
+S801,,,08/03/21,24,Monday,00:00,08:00,480,0,1,0
+ED145,,Breakfast,08/03/21,24,Monday,08:00,08:30,30,2,0,1
+X893,L418,walk,08/03/21,24,Monday,08:45,09:15,30,2,0,0
+O733,,Shower,08/03/21,24,Monday,09:15,09:30,15,-1,2,1
+EL642,UD415,ML lecture,08/03/21,24,Monday,10:00,11:15,75,-1,3,3
+EL642,UD415,Research prep,08/03/21,24,Monday,11:15,12:15,60,-2,5,5
+H179,,Clean room,08/03/21,24,Monday,12:15,12:45,30,-1,1,1
+T695,,Drive to uni,08/03/21,24,Monday,13:00,13:30,30,1,0,0
+CW982,UD415,ADS coursework,08/03/21,24,Monday,13:30,15:30,120,-2,0,4
+ED145,,Lunch,08/03/21,24,Monday,15:30,16:00,30,0,1,0
+CW982,UD415,ADS coursework,08/03/21,24,Monday,16:00,19:30,210,-2,3,4
+T695,,Drive back from uni,08/03/21,24,Monday,19:30,20:00,30,1,1,0
+ED145,,Dinner,08/03/21,24,Monday,20:00,21:00,60,0,0,0
+L418,UD415,Gaming,08/03/21,24,Monday,21:00,22:30,90,2,0,0
+R523,,Reading papers,08/03/21,24,Monday,22:30,23:30,60,1,2,2

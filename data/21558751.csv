@@ -1,0 +1,36 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,Quality of mood,Pressure
+S801,,Sleep,09-03-2021,Tuesday,00:00:00,08:00:00,480,0,neutral,neutral
+X893,,Exercise,09-03-2021,Tuesday,08:00:00,09:00:00,60,2,very high,very low
+ED145,,Eating,09-03-2021,Tuesday,09:00:00,09:45:00,45,-1,low,high
+CW982,,Coursework,09-03-2021,Tuesday,09:45:00,12:00:00,135,-2,very low,very high
+ED145,,Eating,09-03-2021,Tuesday,12:00:00,13:00:00,60,0,neutral,neutral
+T695,,Travelling,09-03-2021,Tuesday,13:00:00,14:00:00,60,1,high,low
+PW101,,Paid Work,09-03-2021,Tuesday,14:00:00,18:00:00,240,2,very high,very low
+CW982,,Coursework,09-03-2021,Tuesday,18:00:00,22:00:00,240,-2,very low,very high
+ED145,,Eating,09-03-2021,Tuesday,22:00:00,23:00:00,60,1,high,low
+UD415,,Using Devices,09-03-2021,Tuesday,23:00:00,23:59:59,59.98333333,2,very high,very low
+S801,,Sleep,10-03-2021,Wednesday,00:00:00,08:00:00,480,0,neutral,neutral
+X893,,Exercise,10-03-2021,Wednesday,08:00:00,09:00:00,60,2,very high,very low
+ED145,,Eating,10-03-2021,Wednesday,09:00:00,09:45:00,45,1,low,high
+CW982,,Coursework,10-03-2021,Wednesday,09:45:00,12:00:00,135,2,very low,very high
+ED145,,Eating,10-03-2021,Wednesday,12:00:00,13:00:00,60,0,neutral,neutral
+T695,,Travelling,10-03-2021,Wednesday,13:00:00,14:00:00,60,1,high,low
+PW101,,Paid Work,10-03-2021,Wednesday,14:00:00,18:00:00,240,2,very high,very low
+CW982,,Coursework,10-03-2021,Wednesday,18:00:00,20:00:00,120,-2,very low,very high
+L418,,Leisure,10-03-2021,Wednesday,20:00:00,21:45:00,105,2,very high,very low
+ED145,,Eating,10-03-2021,Wednesday,21:45:00,22:30:00,45,0,neutral,neutral
+H179,ED145,Cooking,10-03-2021,Wednesday,22:30:00,23:00:00,30,-1,low,high
+UD415,,Using Devices,10-03-2021,Wednesday,23:00:00,23:59:59,59.98333333,2,very high,very low
+S801,,Sleep,11-03-2021,Thursday,00:00:00,08:00:00,480,0,neutral,neutral
+X893,,Exercise,11-03-2021,Thursday,08:00:00,09:00:00,60,2,very high,very low
+ED145,,Eating,11-03-2021,Thursday,09:00:00,09:45:00,45,0,neutral,neutral
+R523,,Reading,11-03-2021,Thursday,09:45:00,10:30:00,45,1,high,low
+CW982,,Coursework,11-03-2021,Thursday,10:30:00,12:00:00,90,-2,very low,very high
+ED145,,Eating,11-03-2021,Thursday,12:00:00,13:00:00,60,0,neutral,neutral
+T695,,Travelling,11-03-2021,Thursday,13:00:00,14:00:00,60,1,high,low
+PW101,,Paid Work,11-03-2021,Thursday,14:00:00,18:00:00,240,2,high,low
+EL642,UD415,Online Lectures,11-03-2021,Thursday,18:00:00,20:00:00,120,-2,low,high
+L418,,Leisure,11-03-2021,Thursday,20:00:00,21:00:00,60,2,very high,very low
+H179,,Housework,11-03-2021,Thursday,21:00:00,22:00:00,60,0,neutral,neutral
+UD415,,Using Devices,11-03-2021,Thursday,22:00:00,23:00:00,60,2,very high,very low
+O733,L418,Playing Guitar,11-03-2021,Thursday,23:00:00,23:59:59,59.98333333,2,very high,very low

@@ -1,0 +1,40 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,StressLevel,FocusLevel
+S801,,Sleeping,04/03/2021,23,Thursday,00:15:00,10:00:00,585,2,0,
+O733,,Showering/Getting dressed,04/03/2021,23,Thursday,10:00:00,10:15:00,15,0,0,0
+EL642,,Supervisor meeting,04/03/2021,23,Thursday,10:15:00,11:15:00,60,1,1,3
+L418,UD415,Browsing Reddit,04/03/2021,23,Thursday,11:15:00,12:00:00,45,2,0,1
+L418,T695,Went for a drive,04/03/2021,23,Thursday,12:00:00,13:00:00,60,1,1,2
+ED145,,Making lunch,04/03/2021,23,Thursday,13:00:00,14:00:00,60,1,0,0
+CW982,EL642,ADS Lab 3,04/03/2021,23,Thursday,14:00:00,18:30:00,270,-2,3,2
+UD415,,Phoned a friend,04/03/2021,23,Thursday,18:30:00,19:30:00,60,1,0,3
+ED145,,Dinner,04/03/2021,23,Thursday,19:30:00,20:00:00,30,2,0,1
+CW982,,ADS Lab 3,04/03/2021,23,Thursday,20:00:00,22:00:00,120,-2,2,1
+L418,,Journalling,04/03/2021,23,Thursday,22:00:00,23:00:00,60,2,0,3
+L418,UD415,Gaming,04/03/2021,23,Thursday,23:00:00,04:30:00,330,2,0,2
+S801,,Sleeping,05/03/2021,23,Friday,04:30:00,11:30:00,420,2,0,
+O733,,Showering/Getting dressed,05/03/2021,23,Friday,11:30:00,12:00:00,30,2,0,0
+L418,T695,Went for a drive,05/03/2021,23,Friday,12:15:00,13:15:00,60,2,2,3
+L418,UD415,Gaming,05/03/2021,23,Friday,13:15:00,18:00:00,285,2,0,2
+ED145,,Dinner,05/03/2021,23,Friday,18:00:00,19:00:00,60,0,0,0
+L418,UD415,Gaming,05/03/2021,23,Friday,19:00:00,23:00:00,240,2,0,1
+L418,,Journalling,05/03/2021,23,Friday,23:00:00,00:00:00,60,2,0,3
+CW982,EL642,ADS Lab 3,06/03/2021,23,Saturday,00:00:00,02:00:00,120,-2,1,2
+L418,UD415,Gaming,06/03/2021,23,Saturday,02:00:00,04:00:00,120,2,0,0
+S801,,Sleeping,06/03/2021,23,Saturday,04:00:00,11:15:00,435,2,0,
+O733,,Showering/Getting dressed,06/03/2021,23,Saturday,11:15:00,11:30:00,15,2,0,0
+CW982,EL642,ADS Lab 3,06/03/2021,23,Saturday,11:30:00,15:00:00,210,-1,1,2
+L418,UD415,Gaming,06/03/2021,23,Saturday,15:00:00,18:00:00,180,2,0,1
+ED145,,Dinner,06/03/2021,23,Saturday,18:00:00,18:30:00,30,2,0,1
+CW982,EL642,ADS Lab 3,06/03/2021,23,Saturday,18:30:00,20:00:00,90,-2,2,2
+X893,L418,Went for a walk,06/03/2021,23,Saturday,20:00:00,20:30:00,30,1,0,2
+CW982,EL642,ADS Lab 3,06/03/2021,23,Saturday,20:30:00,22:00:00,90,-2,2,2
+L418,UD415,Gaming,06/03/2021,23,Saturday,22:00:00,23:00:00,60,2,0,1
+L418,,Journalling,06/03/2021,23,Saturday,23:00:00,00:00:00,60,1,0,3
+L418,UD415,Gaming,07/03/2021,23,Sunday,00:00:00,04:00:00,240,2,0,0
+S801,,Sleeping,07/03/2021,23,Sunday,04:00:00,12:00:00,480,2,0,
+L418,UD415,Gaming,07/03/2021,23,Sunday,12:00:00,14:00:00,120,2,0,1
+CW982,EL642,ADS Lab 3,07/03/2021,23,Sunday,14:00:00,16:00:00,120,-2,2,1
+L418,UD415,Gaming,07/03/2021,23,Sunday,16:00:00,20:00:00,240,2,0,2
+O733,UD415,Chatting with a friend,07/03/2021,23,Sunday,20:00:00,22:00:00,120,2,0,1
+L418,,Journalling,07/03/2021,23,Sunday,22:00:00,23:00:00,60,1,0,3
+CW982,EL642,ADS Lab 3,07/03/2021,23,Sunday,23:00:00,00:00:00,60,-2,2,2

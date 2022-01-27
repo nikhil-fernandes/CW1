@@ -1,0 +1,59 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,SleepQuality,WorkEfficiency,WorkCompletion
+L418,UD415,Swipe the phone,06/03/21,23,Saturday,00:00,00:53,53,2,,,No
+S801,,Sleep,06/03/21,23,Saturday,00:53,09:30,517,1,-1,,No
+L418,UD415,Swipe the phone,06/03/21,23,Saturday,09:38,10:14,36,1,,,No
+ED145,L418,Brunch and Coffee,06/03/21,23,Saturday,10:14,11:20,66,2,,,No
+T695,,Supermarket,06/03/21,23,Saturday,11:32,12:28,56,1,,,No
+H179,,disinfect purchases,06/03/21,23,Saturday,12:32,12:55,23,0,,,No
+L418,UD415,Swipe the phone,06/03/21,23,Saturday,12:55,13:12,17,2,,,No
+L418,,Take Bath,06/03/21,23,Saturday,13:20,14:03,43,1,,,No
+L418,UD415,Swipe the phone,06/03/21,23,Saturday,14:03,14:23,20,1,,,No
+CW982,H179,Coursework and laundry,06/03/21,23,Saturday,14:23,16:45,142,0,,0,No
+H179,,Cooking,06/03/21,23,Saturday,16:45,17:32,47,0,,,No
+ED145,L418,Dinner,06/03/21,23,Saturday,17:32,18:14,42,1,,,No
+H179,,Doing the Dishes,06/03/21,23,Saturday,18:14,18:32,18,0,,,No
+CW982,,Coursework,06/03/21,23,Saturday,18:32,20:32,120,1,,2,No
+L418,UD415,Games,06/03/21,23,Saturday,20:32,21:00,28,1,,,No
+CW982,,Coursework,06/03/21,23,Saturday,21:00,22:30,90,0,,1,No
+R523,L418,Reading,06/03/21,23,Saturday,22:42,23:36,54,1,,1,No
+H179,,wash up,06/03/21,23,Saturday,23:40,00:00,20,1,,,No
+H179,L418,washing up,07/03/21,23,Sunday,00:00,00:12,12,1,,,No
+L418,UD415,Swipe the phone,07/03/21,23,Sunday,00:14,01:03,49,2,,,No
+S801,,Sleeping,07/03/21,23,Sunday,01:03,09:42,519,1,0,,No
+L418,UD415,Swipe the phone,07/03/21,23,Sunday,09:42,10:23,41,2,,,No
+ED145,L418,Brunch and Coffee,07/03/21,23,Sunday,10:23,11:02,39,1,,,No
+L418,UD415,Watching TV,07/03/21,23,Sunday,11:02,12:46,104,1,,,No
+X893,,Workout,07/03/21,23,Sunday,12:53,13:15,22,1,,,No
+CW982,,Coursework,07/03/21,23,Sunday,13:23,15:23,120,0,,-1,No
+L418,UD415,Watching TV,07/03/21,23,Sunday,15:23,14:04,1361,2,,,No
+L418,UD415,Swipe the phone,07/03/21,23,Sunday,14:04,14:35,31,0,,,No
+CW982,,Coursework,07/03/21,23,Sunday,14:35,17:05,150,1,,1,No
+H179,,Cooking,07/03/21,23,Sunday,17:05,17:53,48,1,,,No
+ED145,L418,Dinner,07/03/21,23,Sunday,17:53,18:34,41,2,,,No
+L418,UD415,Swipe the phone,07/03/21,23,Sunday,18:34,19:16,42,1,,,No
+H179,UD415,Doing the dishes,07/03/21,23,Sunday,19:16,19:51,35,1,,,No
+CW982,,Coursework,07/03/21,23,Sunday,20:00,22:30,150,-1,,0,No
+L418,UD415,Swipe the phone,07/03/21,23,Sunday,22:30,22:53,23,1,,,No
+H179,,washing up,07/03/21,23,Sunday,22:53,23:37,44,1,,,No
+R523,L418,Reading,07/03/21,23,Sunday,23:40,00:00,20,1,,1,No
+R523,L418,Reading,08/03/21,24,Monday,00:00,00:24,24,1,,1,Yes
+S801,,Sleeping,08/03/21,24,Monday,00:24,08:30,486,0,-1,,Yes
+ED145,L418,Breakfast and Coffee,08/03/21,24,Monday,08:30,08:53,23,1,,,Yes
+EL642,UD415,LOIL Recordings,08/03/21,24,Monday,09:00,10:30,90,0,,-1,Yes
+L418,UD415,Swiping the Phone,08/03/21,24,Monday,10:30,10:40,10,1,,,Yes
+EL642,UD415,LOIL Recordings,08/03/21,24,Monday,10:40,11:40,60,-1,,-1,Yes
+H179,,Cooking,08/03/21,24,Monday,11:43,12:24,41,0,,,Yes
+ED145,,Lunch,08/03/21,24,Monday,12:23,12:58,35,1,,,Yes
+S801,,Nap,08/03/21,24,Monday,13:07,13:52,45,2,1,,Yes
+CW982,UD415,Coursework,08/03/21,24,Monday,14:00,15:00,60,0,,0,Yes
+H179,,Doing dishes,08/03/21,24,Monday,15:03,15:26,23,-1,,,Yes
+CW982,UD415,Coursework,08/03/21,24,Monday,15:34,17:04,90,0,,1,Yes
+H179,,Cooking,08/03/21,24,Monday,17:04,17:38,34,0,,,Yes
+ED145,,Dinner,08/03/21,24,Monday,17:38,18:02,24,0,,,Yes
+L418,UD415,Swiping the Phone,08/03/21,24,Monday,18:02,18:26,24,1,,,Yes
+H179,,Doing dishes,08/03/21,24,Monday,18:26,18:42,16,0,,,Yes
+CW982,UD415,Coursework,08/03/21,24,Monday,18:53,20:53,120,0,,0,Yes
+CW982,UD415,Coursework,08/03/21,24,Monday,21:05,22:05,60,-1,,1,Yes
+L418,,Bath,08/03/21,24,Monday,22:08,23:12,64,1,,,Yes
+L418,UD415,Swiping the Phone,08/03/21,24,Monday,23:12,23:34,22,1,,,Yes
+R523,L418,Reading,08/03/21,24,Monday,23:37,00:00,23,2,,2,Yes

@@ -1,0 +1,32 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,Multitask,CognitiveAbsorption
+S801,,Sleep,05/03/2021,23,Friday,23:15,08:30,555,2,no,2
+ED145,,Eating,06/03/2021,23,Saturday,08:30,09:05,35,2,yes,1
+O733,,Getting dress,06/03/2021,23,Saturday,09:15,09:50,35,0,yes,2
+CW982,,Coursework,06/03/2021,23,Saturday,10:00,12:30,150,-1,yes,1
+X893,,Exercise,06/03/2021,23,Saturday,13:00,14:00,60,2,no,2
+O733,,Getting dress,06/03/2021,23,Saturday,14:10,15:43,93,0,yes,1
+ED145,,Eating,06/03/2021,23,Saturday,16:45,18:00,75,2,yes,2
+T695,,Travelling,06/03/2021,23,Saturday,18:00,18:30,30,-2,yes,-1
+L418,,Leisure,06/03/2021,23,Saturday,18:30,21:30,180,2,no,2
+UD415,,Using devices,06/03/2021,23,Saturday,21:30,23:00,90,1,yes,-1
+S801,,Sleep,06/03/2021,23,Saturday,23:00,08:36,576,2,no,2
+O733,,Getting dress,07/03/2021,23,Sunday,08:51,09:52,61,2,yes,2
+ED145,,Eating,07/03/2021,23,Sunday,10:06,10:30,24,1,no,2
+X893,,Exercise,07/03/2021,23,Sunday,10:42,12:30,108,1,no,1
+O733,,Getting dress,07/03/2021,23,Sunday,12:36,13:00,24,-1,no,-1
+ED145,,Eating,07/03/2021,23,Sunday,13:05,14:30,85,1,yes,-1
+UD415,,Using devices,07/03/2021,23,Sunday,14:30,15:00,30,1,yes,-1
+CW982,,Coursework,07/03/2021,23,Sunday,15:00,18:00,180,-1,no,2
+L418,,Leisure,07/03/2021,23,Sunday,18:00,19:30,90,2,yes,-2
+ED145,,Eating,07/03/2021,23,Sunday,19:42,20:36,54,0,no,2
+UD415,,Using devices,07/03/2021,23,Sunday,20:50,23:30,160,2,no,2
+S801,,Sleep,07/03/2021,23,Sunday,23:30,07:30,480,2,no,2
+ED145,,Eating,08/03/2021,24,Monday,07:30,08:00,30,-1,yes,-2
+CW982,,Coursework,08/03/2021,24,Monday,08:00,12:00,240,1,no,2
+ED145,,Eating,08/03/2021,24,Monday,12:17,13:30,73,0,yes,-1
+L418,,Leisure,08/03/2021,24,Monday,13:42,15:00,78,2,yes,-2
+CW982,,Coursework,08/03/2021,24,Monday,15:06,18:45,219,1,no,2
+UD415,,Using devices,08/03/2021,24,Monday,18:56,19:40,44,1,yes,-2
+ED145,,Eating,08/03/2021,24,Monday,19:53,20:37,44,1,no,0
+UD415,,Using devices,08/03/2021,24,Monday,21:00,22:30,90,1,yes,-2
+S801,,Sleep,08/03/2021,24,Monday,22:43,07:30,527,2,no,2

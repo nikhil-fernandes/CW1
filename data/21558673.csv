@@ -1,0 +1,53 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,SocialInteraction,StressFrequency
+S801,,Zzzz,26/02/2021,22.0,Friday,23:15,08:00,525.0,2,Yes - in person,Never
+S801,,,23/02/2021,22.0,Tuesday,23:15,07:00,465.0,1,Yes - in person,Never
+ED145,,Tea,24/02/2021,22.0,Wednesday,07:00,07:15,15.0,2,Yes - in person,Never
+R523,,The Complacent Class - Tyler Cowen,24/02/2021,22.0,Wednesday,07:15,08:00,45.0,2,No,Almost never
+X893,,Walk and work out,24/02/2021,22.0,Wednesday,08:00,08:45,45.0,2,Yes - in person,Never
+ED145,,Blueberries and porridge,24/02/2021,22.0,Wednesday,08:45,09:00,15.0,2,No,Never
+O733,,"Shower, teeth and changing clothes",24/02/2021,22.0,Wednesday,09:00,09:15,15.0,1,No,Never
+CW982,,Finish reading the spec and start designing Notion page,24/02/2021,22.0,Wednesday,09:15,12:00,165.0,0,No,Sometimes
+ED145,,Pumpkin pesto pasta with mackerel,24/02/2021,22.0,Wednesday,12:00,12:30,30.0,2,No,Almost never
+UD415,,Youtube - Veritasium and NBA highlights from last night,24/02/2021,22.0,Wednesday,12:30,13:00,30.0,2,No,Never
+EL642,,Olga Isupova seminar talk,24/02/2021,22.0,Wednesday,13:15,14:15,60.0,1,Yes - virtual,Almost never
+CW982,,Finish designing this Notion page,24/02/2021,22.0,Wednesday,14:15,16:00,105.0,1,No,Sometimes
+L418,ED145,Study break - cup of tea,24/02/2021,22.0,Wednesday,16:00,16:15,15.0,1,No,Almost never
+CW982,,Back to finishing this Notion page,24/02/2021,22.0,Wednesday,16:15,17:00,45.0,0,No,Sometimes
+L418,UD415,Listen to music and talk to family,24/02/2021,22.0,Wednesday,17:00,17:30,30.0,2,Yes - virtual,Never
+CW982,,Write up the research question section - learn how to use Overleaf,24/02/2021,22.0,Wednesday,17:30,18:30,60.0,1,No,Almost never
+ED145,H179,Cook dinner and clean flat,24/02/2021,22.0,Wednesday,18:30,19:30,60.0,,Yes - in person,Almost never
+L418,UD415,Browsing social media and having a chat,24/02/2021,22.0,Wednesday,19:30,20:30,60.0,1,Yes - in person,Never
+R523,L418,The Complacent Class - Tyler Cowen,24/02/2021,22.0,Wednesday,20:30,22:00,90.0,1,No,Never
+L418,,Chilling and chatting,24/02/2021,22.0,Wednesday,21:30,23:00,90.0,1,Yes - in person,Never
+S801,,Zzzz,24/02/2021,22.0,Wednesday,23:00,07:00,480.0,1,Yes - in person,Never
+ED145,,Tea,25/02/2021,22.0,Thursday,07:00,07:15,15.0,1,Yes - in person,Never
+R523,,The Complacent Class - Tyler Cowen,25/02/2021,22.0,Thursday,07:15,08:00,45.0,1,No,Never
+L418,,Waiting for GF to go for a walk...,25/02/2021,22.0,Thursday,08:00,08:15,15.0,1,Yes - in person,Sometimes
+X893,L418,Walking and work out,25/02/2021,22.0,Thursday,08:15,09:00,45.0,2,Yes - in person,Never
+O733,,"Shower, teeth and change clothes",25/02/2021,22.0,Thursday,09:00,09:15,15.0,1,No,Never
+CW982,,Starting on task 2,25/02/2021,22.0,Thursday,09:15,10:30,75.0,0,No,Almost never
+O733,,Monitor and laptop stand arrived so I built it,25/02/2021,22.0,Thursday,10:30,11:15,45.0,2,No,Sometimes
+CW982,,Continue working on task 2,25/02/2021,22.0,Thursday,11:15,12:00,45.0,0,No,Almost never
+ED145,,Egg fried rice with veggies,25/02/2021,22.0,Thursday,12:00,12:30,30.0,2,No,Never
+L418,UD415,NBA highlights,25/02/2021,22.0,Thursday,12:30,13:00,30.0,2,No,Never
+CW982,,Continuing with task 2,25/02/2021,22.0,Thursday,13:00,17:00,240.0,1,No,Almost never
+L418,UD415,YouTube - Veritasium,25/02/2021,22.0,Thursday,17:00,17:45,45.0,2,No,Never
+X893,L418,Walking and throwing ball around in park,25/02/2021,22.0,Thursday,17:45,18:45,60.0,2,Yes - in person,Never
+ED145,L418,Paellaaaa,25/02/2021,22.0,Thursday,18:45,19:45,60.0,2,Yes - in person,Almost never
+L418,,Chatting,25/02/2021,22.0,Thursday,19:45,21:30,105.0,0,No,Sometimes
+R523,,The Complacent Class - Tyler Cowen,25/02/2021,22.0,Thursday,21:30,22:00,30.0,0,No,Almost never
+L418,,Chatting,25/02/2021,22.0,Thursday,22:00,23:00,60.0,0,Yes - in person,Sometimes
+S801,,Zzzz,25/02/2021,22.0,Thursday,23:00,07:00,480.0,2,Yes - in person,Never
+L418,,Tea,26/02/2021,22.0,Friday,07:00,07:15,15.0,2,Yes - in person,Never
+R523,L418,Writing notes on The Complacent Class - Tyler Cowen,26/02/2021,22.0,Friday,07:15,08:00,45.0,2,No,Never
+X893,L418,Walk and work out,26/02/2021,22.0,Friday,08:00,09:00,60.0,2,No,Never
+O733,,"Shower, teeth and change clothes",26/02/2021,22.0,Friday,09:00,09:30,30.0,1,No,Never
+CW982,,"Finish post-processing, fill out this form and double check spec for task 1 and 2",26/02/2021,22.0,Friday,09:30,12:00,150.0,1,No,Almost never
+ED145,L418,Smoked salmon pasta,26/02/2021,22.0,Friday,12:00,12:30,30.0,2,No,Never
+R523,L418,Finished writing notes on The Complacement Class,26/02/2021,22.0,Friday,12:30,13:00,30.0,1,No,Never
+CW982,,Start ML2 coursework,26/02/2021,22.0,Friday,13:00,17:00,240.0,-1,No,Fairly often
+L418,X893,Walk,26/02/2021,22.0,Friday,17:00,17:30,30.0,1,Yes - in person,Almost never
+ED145,L418,Chorizo stew,26/02/2021,22.0,Friday,17:30,19:00,90.0,1,Yes - in person,Almost never
+L418,,Movie,26/02/2021,22.0,Friday,19:30,21:30,120.0,2,Yes - in person,Never
+L418,,Chatting,26/02/2021,22.0,Friday,21:30,23:15,105.0,1,Yes - in person,Never
+,,USE ME,,,,,,,,No,

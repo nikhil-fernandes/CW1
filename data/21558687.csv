@@ -1,0 +1,32 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,Interesting,ConcentrationLevel
+S801,,Sleeping,08/03/2021,24,Monday,00:00,08:30,510,,,
+O733,,Getting dressed,08/03/2021,24,Monday,08:30,09:00,30,0,N,H
+ED145,L418,Breakfast while watching TV,08/03/2021,24,Monday,09:00,10:15,75,2,Y,H
+EL642,UD415,Online lecture,08/03/2021,24,Monday,10:15,13:15,180,0,N,H
+ED145,,Lunch,08/03/2021,24,Monday,13:15,14:15,60,2,N,H
+EL642,UD415,Online lecture,08/03/2021,24,Monday,14:15,15:15,60,-1,N,L
+L418,,Watching a movie,08/03/2021,24,Monday,15:15,17:30,135,2,Y,H
+CW982,UD415,Coursework,08/03/2021,24,Monday,17:30,19:00,90,-1,Y,L
+ED145,O733,Family dinner,08/03/2021,24,Monday,19:00,20:15,75,2,Y,H
+H179,,Doing the dishes,08/03/2021,24,Monday,20:15,20:45,30,-2,N,L
+CW982,,Coursework,08/03/2021,24,Monday,20:45,01:00,255,-2,N,L
+X893,,Dancing,09/03/2021,24,Tuesday,01:00,02:30,90,2,Y,L
+UD415,L418,Checking social media,09/03/2021,24,Tuesday,02:30,04:00,90,2,Y,H
+S801,,Sleeping,09/03/2021,24,Tuesday,04:00,13:30,570,,,
+O733,,Getting dressed,09/03/2021,24,Tuesday,13:30,13:45,15,-2,N,L
+ED145,,Brunch,09/03/2021,24,Tuesday,13:45,14:00,15,1,N,L
+O733,UD415,Replying emails,09/03/2021,24,Tuesday,14:00,14:15,15,0,Y,H
+EL642,UD415,Online meeting,09/03/2021,24,Tuesday,14:15,15:15,60,2,Y,H
+X893,L418,Walking outside with dog,09/03/2021,24,Tuesday,15:15,16:45,90,2,Y,H
+CW982,UD415,Coursework,09/03/2021,24,Tuesday,16:45,19:30,165,-2,N,L
+ED145,L418,Dinner while watching TV,09/03/2021,24,Tuesday,19:30,21:00,90,2,Y,H
+CW982,UD415,Coursework,09/03/2021,24,Tuesday,21:00,02:00,300,-1,Y,L
+S801,,Sleeping,10/03/2021,24,Wednesday,02:00,12:15,615,,,
+ED145,L418,Breakfast while watching TV,10/03/2021,24,Wednesday,12:15,13:15,60,2,Y,H
+EL642,UD415,Online lecture,10/03/2021,24,Wednesday,13:15,14:15,60,1,N,L
+O733,,Job interview,10/03/2021,24,Wednesday,14:15,16:00,105,0,Y,H
+ED145,,Lunch,10/03/2021,24,Wednesday,16:00,16:30,30,1,N,H
+R523,,Reading a textbook,10/03/2021,24,Wednesday,16:30,17:30,60,1,Y,H
+CW982,EL642,Research Project Prep,10/03/2021,24,Wednesday,17:30,19:30,120,1,N,L
+ED145,L418,Dinner while watching TV,10/03/2021,24,Wednesday,19:30,21:00,90,2,Y,H
+CW982,UD415,Coursework,10/03/2021,24,Wednesday,21:00,01:00,240,2,Y,L

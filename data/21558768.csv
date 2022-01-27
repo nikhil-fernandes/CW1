@@ -1,0 +1,43 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,WatchingScreen,FocusLevel
+O733,,Shower/Brushing Teeth,08/03/21,10,Monday,08:30:00,08:45:00,15.0,0.0,No,0.0
+ED145,,Breakfast,08/03/21,10,Monday,08:45:00,09:15:00,30.0,2.0,No,0.0
+T695,,Walk to library,08/03/21,10,Monday,09:15:00,09:30:00,15.0,1.0,No,0.0
+EL642,UD415,Reinforcement Learning CW,08/03/21,10,Monday,09:30:00,11:30:00,120.0,-1.0,Yes,1.0
+EL642,UD415,ADS CW,08/03/21,10,Monday,11:30:00,12:30:00,60.0,1.0,Yes,2.0
+ED145,,Lunch,08/03/21,10,Monday,12:30:00,13:15:00,45.0,2.0,Yes,0.0
+EL642,UD415,Reinforcement Learning CW,08/03/21,10,Monday,13:15:00,15:15:00,120.0,-2.0,Yes,-2.0
+UD415,,Playing Xbox ,08/03/21,10,Monday,15:15:00,16:15:00,60.0,2.0,Yes,2.0
+EL642,UD415,ML2 CW,08/03/21,10,Monday,16:15:00,17:45:00,90.0,0.0,Yes,2.0
+EL642,UD415,RL Lecture,08/03/21,10,Monday,17:45:00,19:30:00,105.0,0.0,Yes,1.0
+ED145,,Cooking/Eating Dinner,08/03/21,10,Monday,19:30:00,20:00:00,30.0,2.0,No,1.0
+UD415,,Watching Youtube,08/03/21,10,Monday,20:00:00,20:45:00,45.0,2.0,Yes,2.0
+EL642,UD415,ML2 CW,08/03/21,10,Monday,20:45:00,22:00:00,75.0,0.0,Yes,2.0
+UD415,,Playing Xbox ,08/03/21,10,Monday,22:00:00,23:45:00,105.0,2.0,Yes,2.0
+S801,,Sleeping,08/03/21,10,Monday,23:45:00,08:45:00,540.0,,No,
+O733,,Shower/Shave/Brush Teeth,09/03/21,10,Tuesday,08:45:00,09:30:00,45.0,0.0,No,0.0
+EL642,UD415,ADS CW,09/03/21,10,Tuesday,09:30:00,11:00:00,90.0,1.0,Yes,1.0
+ED145,,Breakfast,09/03/21,10,Tuesday,11:00:00,11:30:00,30.0,1.0,No,0.0
+T695,,Walking to library,09/03/21,10,Tuesday,11:30:00,11:45:00,15.0,1.0,No,0.0
+EL642,UD415,Reinforcement Learning CW,09/03/21,10,Tuesday,11:45:00,12:45:00,60.0,-1.0,Yes,2.0
+EL642,UD415,ML 2 CW,09/03/21,10,Tuesday,12:45:00,16:15:00,210.0,0.0,Yes,-1.0
+EL642,UD415,Research Project Research,09/03/21,10,Tuesday,16:15:00,17:45:00,90.0,2.0,Yes,1.0
+EL642,UD415,Reinforcement Learning CW,09/03/21,10,Tuesday,17:45:00,19:30:00,105.0,-1.0,Yes,2.0
+T695,,Walk to Shops,09/03/21,10,Tuesday,19:30:00,19:45:00,15.0,1.0,No,0.0
+O733,,Shopping in tesco,09/03/21,10,Tuesday,19:45:00,20:15:00,30.0,1.0,No,0.0
+T695,,Walk home from shops,09/03/21,10,Tuesday,20:15:00,20:45:00,30.0,1.0,No,0.0
+ED145,,Cooking/Eating Dinner,09/03/21,10,Tuesday,20:45:00,21:45:00,60.0,2.0,No,1.0
+UD415,L418,Watching tv,09/03/21,10,Tuesday,21:45:00,22:30:00,45.0,2.0,Yes,0.0
+EL642,UD415,Reinforcement Learning CW,09/03/21,10,Tuesday,22:30:00,00:15:00,105.0,-2.0,Yes,1.0
+S801,,Sleeping,10/03/21,10,Wednesday,00:15:00,08:30:00,495.0,,No,
+O733,,Shower/get dressed,10/03/21,10,Wednesday,08:30:00,08:45:00,15.0,1.0,No,0.0
+EL642,UD415,ML 2 CW (debugging…....),10/03/21,10,Wednesday,08:45:00,12:15:00,210.0,-2.0,Yes,2.0
+ED145,UD415,Lunch/watching youtube,10/03/21,10,Wednesday,12:30:00,13:00:00,30.0,2.0,Yes,0.0
+EL642,UD415,MS Teams for RL…,10/03/21,10,Wednesday,13:00:00,13:45:00,45.0,1.0,Yes,1.0
+EL642,UD415,ML 2 CW,10/03/21,10,Wednesday,13:45:00,16:30:00,165.0,-1.0,Yes,-1.0
+X893,,5K run,10/03/21,10,Wednesday,16:30:00,17:15:00,45.0,-1.0,No,0.0
+O733,,Shower/Crash out after run,10/03/21,10,Wednesday,17:15:00,18:15:00,60.0,2.0,Yes,0.0
+ED145,UD415,Cooking/Eating/Watching TV,10/03/21,10,Wednesday,18:15:00,19:15:00,60.0,2.0,Yes,1.0
+EL642,UD415,ML 2 CW/losing the will to live,10/03/21,10,Wednesday,19:15:00,21:30:00,135.0,-2.0,Yes,1.0
+L418,UD415,Watching masterchef,10/03/21,10,Wednesday,21:30:00,23:15:00,105.0,2.0,Yes,0.0
+L418,UD415,Listening to podcast in bed,10/03/21,10,Wednesday,23:15:00,00:15:00,60.0,2.0,No,0.0
+S801,,Long sleep,11/03/21,10,Thursday,00:15:00,08:45:00,510.0,,No,

@@ -1,0 +1,35 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,SocialContactData,DeviceAppData
+S801,,,04/03/2021,23,Thursday,22:30,06:00,450,1,0,
+H179,,Let the dog out,05/03/2021,23,Friday,06:00,06:15,15,-1,0,
+S801,,,05/03/2021,23,Friday,06:15,08:30,135,2,0,
+ED145,,,05/03/2021,23,Friday,08:30,09:00,30,0,0,
+UD415,,,05/03/2021,23,Friday,09:00,10:00,60,-1,0,Social Media
+EL642,UD415,,05/03/2021,23,Friday,10:00,15:00,300,0,0,VC 
+ED145,,Peanut butter on toast,05/03/2021,23,Friday,15:00,15:30,30,0,0,
+EL642,CW982,,05/03/2021,23,Friday,15:30,17:00,90,1,0,
+L418,,Watched the Covid Briefing,05/03/2021,23,Friday,17:00,17:45,45,0,2,
+T695,UD415,,05/03/2021,23,Friday,17:45,21:00,195,1,1,Messaging 
+UD415,,,05/03/2021,23,Friday,21:00,22:00,60,0,1,Messaging 
+S801,,,05/03/2021,23,Friday,22:00,08:00,600,2,0,
+ED145,,,06/03/2021,23,Saturday,08:00,08:30,30,0,0,
+H179,UD415, ,06/03/2021,23,Saturday,08:30,10:30,120,-1,0,Messaging 
+CW982,,,06/03/2021,23,Saturday,10:30,12:00,90,-1,0,
+ED145,,,06/03/2021,23,Saturday,12:00,13:00,60,0,0,
+CW982,,,06/03/2021,23,Saturday,13:00,15:15,135,-1,0,
+X893,,,06/03/2021,23,Saturday,15:15,16:45,90,1,1,
+L418,,TV,06/03/2021,23,Saturday,16:45,18:00,75,1,0,
+ED145,,Cooked dinner,06/03/2021,23,Saturday,18:00,20:00,120,-1,0,
+ED145,,Ate dinner,06/03/2021,23,Saturday,20:00,20:30,30,1,3,
+L418,UD415,Zoom Quiz,06/03/2021,23,Saturday,20:30,22:00,90,2,6,VC 
+S801,,,06/03/2021,23,Saturday,22:00,09:00,660,1,0,
+UD415,,,07/03/2021,23,Sunday,09:00,09:30,30,0,2,Messaging 
+X893,,Run with friend,07/03/2021,23,Sunday,09:30,10:45,75,2,1,
+ED145,,Breakfast,07/03/2021,23,Sunday,10:45,11:30,45,0,0,
+L418,,Bubble bath,07/03/2021,23,Sunday,11:30,12:30,60,1,0,
+EL642,,Watched recorded lectures,07/03/2021,23,Sunday,12:30,14:30,120,-2,0,
+ED145,L418,Lunch and watched MOTD,07/03/2021,23,Sunday,14:30,15:30,60,1,0,
+CW982,,,07/03/2021,23,Sunday,15:30,17:00,90,-1,0,
+L418,UD415,Procrastination tbh,07/03/2021,23,Sunday,17:00,19:30,150,0,0,Music
+ED145,,Ate dinner,07/03/2021,23,Sunday,19:30,20:30,60,1,3,
+L418,,watched TV,07/03/2021,23,Sunday,20:30,22:30,120,0,3,
+S801,,,07/03/2021,23,Sunday,22:30,08:15,585,1,0,

@@ -1,0 +1,21 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,StartTime,EndTime,DurationMins,EnjoymentScore,Resting_Heart_Rate,Sleep_Quality
+,CHR,Check Heart Rate,01/03/2021,23,7:00,7:15,15,1,58,
+ED145,,Eating,01/03/2021,23,8:30,9:00,30,2,,
+EL642,,Education ,01/03/2021,23,9:15,17:15,240,2,,
+EL642,,Eating,01/03/2021,23,19:00,19:30,30,2,,
+L418,,Leisure,01/03/2021,23,20:30,22:30,120,2,,
+S801,,Sleeping,01/03/2021,23,23:00,6:30,450,2,,4
+,CHR,Check Heart Rate,01/03/2021,23,7:00,7:15,15,1,61,
+X893,,Exercise,02/03/2021,23,7:15,8:00,45,2,,
+ED145,,Eating,02/03/2021,23,8:30,9:00,30,2,,
+EL642,,Education ,02/03/2021,23,9:15,17:15,240,2,,
+EL642,,Eating,02/03/2021,23,19:00,19:30,30,2,,
+L418,,Leisure,02/03/2021,23,20:30,22:30,120,2,,
+S801,,Sleeping,02/03/2021,23,23:00,6:30,450,2,,4
+,CHR,Check Heart Rate,01/03/2021,23,7:00,7:15,15,1,55,
+X893,,Exercise,03/03/2021,23,7:15,8:00,45,2,,
+ED145,,Eating,03/03/2021,23,8:30,9:00,30,2,,
+EL642,,Education ,03/03/2021,23,9:15,17:15,240,2,,
+EL642,,Eating,03/03/2021,23,19:00,19:30,30,2,,
+L418,,Leisure,03/03/2021,23,20:30,22:30,120,2,,
+S801,,Sleeping,03/03/2021,23,23:00,6:30,450,2,,4

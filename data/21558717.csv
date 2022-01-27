@@ -1,0 +1,48 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,Enjoyment,IndoorOutdoor,StressRating
+L418,UD415,Listen to podcast,03/03/2021,23,Wednesday,00:00,01:00,60.0,2.0,Indoors,1.0
+S801,,,03/03/2021,23,Wednesday,01:00,09:30,510.0,,Indoor,1.0
+O733,,Getting dressed/shower,03/03/2021,23,Wednesday,09:30,10:00,30.0,,Indoor,1.0
+UD415,L418,Browsing,03/03/2021,23,Wednesday,10:00,10:30,30.0,,Indoor,1.0
+X893,,,03/03/2021,23,Wednesday,10:30,11:15,45.0,1.0,Indoor,1.0
+ED145,,Breakfast,03/03/2021,23,Wednesday,11:15,11:30,15.0,,Indoor,1.0
+R523,UD415,Webcomic,03/03/2021,23,Wednesday,11:30,12:30,60.0,,Indoor,1.0
+CW982,,,03/03/2021,23,Wednesday,12:30,13:15,45.0,0.0,Indoor,3.0
+UD415,L418,YouTube,03/03/2021,23,Wednesday,13:15,13:45,30.0,,Indoor,2.0
+R523,,Book,03/03/2021,23,Wednesday,13:45,14:15,30.0,1.0,Indoor,2.0
+EL642,,,03/03/2021,23,Wednesday,14:15,15:15,60.0,0.0,Indoor,2.0
+CW982,,,03/03/2021,23,Wednesday,15:15,16:30,75.0,-1.0,Indoor,4.0
+UD415,L418,Disney+,03/03/2021,23,Wednesday,16:30,18:00,90.0,1.0,Indoor,2.0
+UD415,L418,Video Games,03/03/2021,23,Wednesday,18:00,19:00,60.0,2.0,Indoor,2.0
+H179,,Cooking,03/03/2021,23,Wednesday,19:00,19:45,45.0,0.0,Indoor,3.0
+ED145,,Dinner,03/03/2021,23,Wednesday,19:45,20:15,30.0,,Indoor,2.0
+H179,,Cleaning,03/03/2021,23,Wednesday,20:15,21:30,75.0,-1.0,Indoor,3.0
+UD415,L418,Video Games,03/03/2021,23,Wednesday,21:30,00:00,150.0,2.0,Indoor,1.0
+L418,UD415,Listen to podcast,04/03/2021,23,Thursday,00:00,01:00,60.0,1.0,Indoor,1.0
+S801,,,04/03/2021,23,Thursday,01:00,09:45,525.0,,Indoor,1.0
+O733,,Getting dressed/shower,04/03/2021,23,Thursday,09:45,10:00,15.0,,Indoor,1.0
+ED145,,Breakfast,04/03/2021,23,Thursday,10:00,10:15,15.0,,Indoor,1.0
+EL642,,,04/03/2021,23,Thursday,10:15,13:00,165.0,-1.0,Indoor,4.0
+ED145,,Lunch,04/03/2021,23,Thursday,13:00,13:30,30.0,,Indoor,2.0
+L418,UD415,Listen to podcast,04/03/2021,23,Thursday,13:30,14:30,60.0,1.0,Indoor,2.0
+EL642,,,04/03/2021,23,Thursday,14:30,15:30,60.0,,Indoor,2.0
+UD415,L418,Video Games,04/03/2021,23,Thursday,15:30,17:15,105.0,2.0,Indoor,1.0
+EL642,R523,,04/03/2021,23,Thursday,17:15,18:00,45.0,1.0,Indoor,1.0
+H179,,Cooking,04/03/2021,23,Thursday,18:00,19:00,60.0,-1.0,Indoor,2.0
+ED145,,Dinner,04/03/2021,23,Thursday,19:00,19:30,30.0,,Indoor,1.0
+O733,,Go to shop,04/03/2021,23,Thursday,19:15,19:45,30.0,1.0,Outdoors,1.0
+R523,,,04/03/2021,23,Thursday,19:45,20:00,15.0,1.0,Indoor,1.0
+UD415,L418,Video Games,04/03/2021,23,Thursday,20:00,00:00,240.0,2.0,Indoor,1.0
+UD415,L418,Video call with friends,05/03/2021,23,Friday,00:00,01:00,60.0,2.0,Indoor,1.0
+S801,,,05/03/2021,23,Friday,01:00,10:00,540.0,,Indoor,1.0
+O733,,Getting dressed/shower,05/03/2021,23,Friday,10:00,10:30,30.0,,Indoor,1.0
+ED145,,Breakfast,05/03/2021,23,Friday,10:30,11:00,30.0,,Indoor,1.0
+R523,L418,Webcomic,05/03/2021,23,Friday,11:00,12:15,75.0,2.0,Indoor,1.0
+EL642,,,05/03/2021,23,Friday,12:15,13:15,60.0,1.0,Indoor,2.0
+X893,L418,,05/03/2021,23,Friday,13:15,14:15,60.0,2.0,Indoor,1.0
+EL642,,,05/03/2021,23,Friday,14:15,16:00,105.0,0.0,Indoor,2.0
+ED145,,,05/03/2021,23,Friday,16:00,16:15,15.0,,Indoor,2.0
+EL642,,,05/03/2021,23,Friday,16:15,17:15,60.0,1.0,Indoor,2.0
+EL642,R523,,05/03/2021,23,Friday,17:15,18:45,90.0,1.0,Indoor,2.0
+UD415,L418,Video Games,05/03/2021,23,Friday,18:45,20:15,90.0,2.0,Indoor,1.0
+ED145,,Dinner,05/03/2021,23,Friday,20:15,20:45,30.0,,Indoor,1.0
+UD415,L418,Video Games,05/03/2021,23,Friday,20:45,00:00,195.0,2.0,Indoor,1.0

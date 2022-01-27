@@ -1,0 +1,53 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,Feeling Stress,Stress Level
+S801,,Sleep,08-03-2021,24,Monday,00:00:00,07:30:00,450.0,2.0,No,
+X893,,Exercise,08-03-2021,24,Monday,07:30:00,09:30:00,120.0,2.0,No,
+H179,,Housework,08-03-2021,24,Monday,09:30:00,10:30:00,60.0,-1.0,Yes,Medium
+ED145,,Eating / Drinking,08-03-2021,24,Monday,10:30:00,11:00:00,30.0,0.0,Yes,Low
+EL642,,Education / Lectures,08-03-2021,24,Monday,11:00:00,14:00:00,180.0,1.0,Yes,Medium
+O733,,Other,08-03-2021,24,Monday,14:00:00,14:30:00,30.0,-1.0,Yes,Low
+ED145,,Eating / Drinking,08-03-2021,24,Monday,14:30:00,15:00:00,30.0,1.0,No,
+UD415,R523,Reading News,08-03-2021,24,Monday,15:00:00,15:30:00,30.0,1.0,No,
+CW982,,Coursework,08-03-2021,24,Monday,15:30:00,17:30:00,120.0,1.0,Yes,Low
+L418,,Leisure,08-03-2021,24,Monday,17:30:00,17:50:00,20.0,0.0,Yes,Low
+R523,,Reading,08-03-2021,24,Monday,17:50:00,18:30:00,40.0,1.0,Yes,Low
+H179,O733,Cooking,08-03-2021,24,Monday,18:30:00,19:50:00,80.0,-1.0,Yes,Low
+ED145,,Eating / Drinking,08-03-2021,24,Monday,19:50:00,20:15:00,25.0,1.0,No,
+CW982,,Coursework,08-03-2021,24,Monday,20:15:00,23:30:00,195.0,1.0,No,
+S801,,Sleep,08-03-2021,24,Monday,23:00:00,23:59:59,59.983333333333334,2.0,No,
+S801,,Sleep,09-03-2021,24,Tuesday,00:00:00,07:00:00,420.0,2.0,No,
+X893,,Exercise,09-03-2021,24,Tuesday,07:00:00,08:30:00,90.0,2.0,Yes,Low
+H179,,Housework,09-03-2021,24,Tuesday,08:30:00,08:45:00,15.0,0.0,Yes,Low
+O733,L418,Talking with Friends,09-03-2021,24,Tuesday,08:45:00,09:10:00,25.0,2.0,No,
+ED145,,Eating / Drinking,09-03-2021,24,Tuesday,09:10:00,09:30:00,20.0,1.0,No,
+CW982,,Coursework,09-03-2021,24,Tuesday,09:30:00,12:30:00,180.0,1.0,Yes,Medium
+UD415,,Using Devices,09-03-2021,24,Tuesday,12:30:00,13:30:00,60.0,1.0,Yes,Low
+ED145,,Eating / Drinking,09-03-2021,24,Tuesday,13:30:00,14:00:00,30.0,0.0,Yes,Low
+CW982,,Coursework,09-03-2021,24,Tuesday,14:00:00,16:30:00,150.0,1.0,Yes,Medium
+L418,,Leisure,09-03-2021,24,Tuesday,16:30:00,17:00:00,30.0,0.0,No,
+R523,,Reading,09-03-2021,24,Tuesday,17:00:00,17:20:00,20.0,0.0,No,
+CW982,,Coursework,09-03-2021,24,Tuesday,17:20:00,19:15:00,115.0,1.0,Yes,Low
+UD415,,Using Devices,09-03-2021,24,Tuesday,19:15:00,19:45:00,30.0,-1.0,Yes,Medium
+ED145,,Eating / Drinking,09-03-2021,24,Tuesday,19:45:00,20:15:00,30.0,0.0,No,
+H179,,Housework,09-03-2021,24,Tuesday,20:15:00,20:30:00,15.0,,Yes,High
+CW982,,Coursework,09-03-2021,24,Tuesday,20:30:00,22:45:00,135.00000000000003,0.0,Yes,High
+UD415,,Using Devices,09-03-2021,24,Tuesday,22:45:00,23:30:00,45.0,0.0,No,
+S801,,Sleep,09-03-2021,24,Tuesday,23:30:00,23:59:59,29.983333333333334,2.0,No,
+S801,,Sleep,10-03-2021,24,Wednesday,00:00:00,07:30:00,450.0,1.0,No,
+X893,,Exercise,10-03-2021,24,Wednesday,07:30:00,08:45:00,75.0,1.0,Yes,Low
+R523,,Reading,10-03-2021,24,Wednesday,08:45:00,09:15:00,30.0,1.0,No,
+ED145,,Eating / Drinking,10-03-2021,24,Wednesday,09:15:00,09:50:00,35.0,0.0,No,
+UD415,,Using Devices,10-03-2021,24,Wednesday,09:50:00,10:00:00,10.0,1.0,No,
+CW982,,Coursework,10-03-2021,24,Wednesday,10:00:00,12:30:00,150.0,1.0,No,
+ED145,,Eating / Drinking,10-03-2021,24,Wednesday,12:30:00,13:10:00,40.0,0.0,Yes,Low
+L418,,Leisure,10-03-2021,24,Wednesday,13:10:00,13:30:00,20.0,1.0,No,
+CW982,,Coursework,10-03-2021,24,Wednesday,13:30:00,15:15:00,105.0,,Yes,Medium
+O733,L418,Talking with Friends,10-03-2021,24,Wednesday,15:15:00,15:50:00,35.0,1.0,No,
+H179,,Housework,10-03-2021,24,Wednesday,15:50:00,16:15:00,25.0,-1.0,Yes,Low
+UD415,,Using Devices,10-03-2021,24,Wednesday,16:15:00,16:30:00,15.0,0.0,No,
+CW982,,Coursework,10-03-2021,24,Wednesday,16:30:00,19:10:00,160.0,1.0,No,
+H179,O733,Cooking,10-03-2021,24,Wednesday,19:10:00,19:45:00,35.0,0.0,Yes,Low
+ED145,,Eating / Drinking,10-03-2021,24,Wednesday,19:45:00,20:15:00,30.0,0.0,No,
+L418,,Leisure,10-03-2021,24,Wednesday,20:15:00,20:30:00,15.0,-1.0,No,
+CW982,,Coursework,10-03-2021,24,Wednesday,20:30:00,22:45:00,135.00000000000003,1.0,Yes,Medium
+UD415,,Using Devices,10-03-2021,24,Wednesday,22:45:00,23:15:00,30.0,1.0,Yes,Low
+S801,,Sleep,10-03-2021,24,Wednesday,23:15:00,23:59:59,44.983333333333334,2.0,No,

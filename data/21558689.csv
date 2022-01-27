@@ -1,0 +1,26 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,StandardOfQuality,Stress
+EL642,,Education/Lectures,2021-01-03,23,Monday,04:30:00,07:30:00,180,2,4,No
+ED145,H179,Eating/Drinking,2021-01-03,23,Monday,07:30:00,09:00:00,90,1,3,No
+T695,CW982,Travelling,2021-01-03,23,Monday,09:00:00,12:00:00,180,1,3,No
+ED145,UD415,Eating/Drinking,2021-01-03,23,Monday,12:00:00,14:00:00,120,0,2,Yes
+EL642,CW982,Education/Lectures,2021-01-03,23,Monday,14:00:00,20:00:00,360,1,3,No
+ED145,H179,Eating/Drinking,2021-01-03,23,Monday,20:00:00,22:00:00,120,1,3,No
+S801,,Sleep,2021-01-03,23,Monday,22:00:00,04:30:00,390,2,4,No
+EL642,,Education/Lectures,2021-02-03,23,Tuesday,04:30:00,07:30:00,180,2,4,No
+ED145,H179,Eating/Drinking,2021-02-03,23,Tuesday,07:30:00,09:00:00,90,1,3,No
+EL642,CW982,Education/Lectures,2021-02-03,23,Tuesday,09:00:00,12:00:00,180,1,3,No
+ED145,UD415,Eating/Drinking,2021-02-03,23,Tuesday,12:00:00,14:00:00,120,0,2,Yes
+EL642,CW982,Education/Lectures,2021-02-03,23,Tuesday,14:00:00,20:00:00,360,1,3,No
+ED145,H179,Eating/Drinking,2021-02-03,23,Tuesday,20:00:00,22:00:00,120,1,3,No
+S801,,Sleep,2021-02-03,23,Tuesday,22:00:00,04:30:00,390,2,4,No
+EL642,,Education/Lectures,2021-06-03,23,Saturday,06:00:00,08:00:00,120,2,4,No
+PW101,,Paid Work,2021-06-03,23,Saturday,08:00:00,18:00:00,600,0,2,Yes
+T695,,Travelling,2021-06-03,23,Saturday,18:00:00,19:00:00,60,2,4,No
+ED145,,Eating/Drinking,2021-06-03,23,Saturday,19:00:00,20:00:00,60,-2,0,Yes
+S801,,Sleep,2021-06-03,23,Saturday,20:00:00,06:00:00,600,2,4,No
+ED145,H179,Education/Lectures,2021-07-03,23,Sunday,06:00:00,09:00:00,180,0,2,Yes
+T695,,Travelling,2021-07-03,23,Sunday,09:00:00,10:00:00,60,2,4,No
+PW101,,Paid Work,2021-07-03,23,Sunday,10:00:00,16:00:00,360,1,3,No
+R523,H179,Reading,2021-07-03,23,Sunday,16:00:00,20:00:00,240,2,4,No
+ED145,H179,Eating/Drinking,2021-07-03,23,Sunday,20:00:00,22:00:00,180,1,3,No
+S801,,Sleep,2021-07-03,23,Sunday,22:00:00,06:00:00,480,2,4,No

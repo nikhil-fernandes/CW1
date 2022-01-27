@@ -1,0 +1,29 @@
+,PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,Scheduled,Home
+0,S801,,Sleep,01/03/2021,22,Monday,01:45,09:30,465,2,Yes,Yes
+1,ED145,UD415,Eating / Drinking and Using Devices,01/03/2021,22,Monday,09:45,10:15,30,1,Yes,Yes
+2,H179,X893,Kitchen needed some cleaning,01/03/2021,22,Monday,10:15,12:00,105,0,Yes,Yes
+3,CW982,EL642,Coursework and Education / Lectures,01/03/2021,22,Monday,12:00,14:30,150,0,No,Yes
+4,ED145,CW982,Eating / Drinking and Coursework,01/03/2021,22,Monday,14:30,15:30,60,-1,Yes,Yes
+5,L418,UD415,Playing Videogames,01/03/2021,22,Monday,16:15,18:00,105,2,No,Yes
+6,CW982,UD415,Doing coursework on my pc,01/03/2021,22,Monday,18:30,23:45,315,1,Yes,Yes
+7,S801,,Sleep,02/03/2021,22,Tuesday,00:15,08:15,480,1,Yes,Yes
+8,CW982,R523,Studying literature for my coursework,02/03/2021,22,Tuesday,09:00,13:45,285,-1,Yes,Yes
+9,ED145,UD415,Eating while watching television,02/03/2021,22,Tuesday,14:00,14:45,45,1,Yes,Yes
+10,T695,H179,Had to run for some house shopping,02/03/2021,22,Tuesday,15:00,16:45,105,-2,No,No
+11,CW982,EL642,Coursework and Education / Lectures,02/03/2021,22,Tuesday,17:00,23:00,360,0,Yes,Yes
+12,L418,UD415,Playing Videogames,02/03/2021,22,Tuesday,23:15,01:45,150,1,No,Yes
+13,S801,,Sleep,03/03/2021,22,Wednesday,02:00,10:00,480,,Yes,Yes
+14,X893,,Cardio day,03/03/2021,22,Wednesday,10:15,11:30,75,2,Yes,No
+15,ED145,R523,Studying literature for my coursework,03/03/2021,22,Wednesday,11:45,12:15,30,1,Yes,Yes
+16,UD415,L418,Watching Television,03/03/2021,22,Wednesday,12:30,14:30,120,1,No,Yes
+17,EL642,,Education / Lectures,03/03/2021,22,Wednesday,15:00,19:00,240,-1,No,Yes
+18,CW982,,Coursework,03/03/2021,22,Wednesday,19:00,21:45,165,-1,No,Yes
+19,ED145,,Eating / Drinking,03/03/2021,22,Wednesday,22:00,22:30,30,0,No,Yes
+20,L418,UD415,Playing Videogames,03/03/2021,22,Wednesday,22:30,00:30,120,1,No,Yes
+21,S801,,Sleep,04/03/2021,22,Thursday,00:30,07:45,435,-1,No,Yes
+22,ED145,,Eating / Drinking,04/03/2021,22,Thursday,08:00,08:45,45,2,Yes,Yes
+23,EL642,ED145,Education / Lectures and Eating / Drinking,04/03/2021,22,Thursday,09:15,17:45,510,0,Yes,Yes
+24,L418,UD415,Playing Videogames,04/03/2021,22,Thursday,18:15,20:00,105,2,Yes,Yes
+25,X893,,Upper body training,04/03/2021,22,Thursday,20:15,21:15,60,2,No,Yes
+26,ED145,T695,Eating / Drinking and Travelling,04/03/2021,22,Thursday,21:30,22:00,30,0,Yes,No
+27,L418,UD415,Playing Videogames,04/03/2021,22,Thursday,22:15,01:15,180,2,Yes,Yes

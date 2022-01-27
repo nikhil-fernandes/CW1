@@ -1,0 +1,24 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,Environment,Concentration
+S801,,,08/03/2021,24,Monday,00:00,09:00,540,,,
+ED145,,Eating cereal,08/03/2021,24,Monday,09:00,10:00,60,1,Home/Calm,1
+EL642,UD415,,08/03/2021,24,Monday,10:00,12:00,120,0,Home/Noisy,4
+X893,,Going for a walk,08/03/2021,24,Monday,12:00,13:00,60,1,Other location/Noisy,3
+ED145,SA114,,08/03/2021,24,Monday,13:00,15:00,120,2,Home/Calm,1
+CW982,,,08/03/2021,24,Monday,16:00,19:00,180,,,
+ED145,,,08/03/2021,24,Monday,19:00,20:30,90,,,
+UD415,,Watching a movie,08/03/2021,24,Monday,21:00,00:00,1260,,,
+S801,,,09/03/2021,24,Tuesday,00:00,08:00,480,,,
+X893,,,09/03/2021,24,Tuesday,08:00,09:00,60,2,Home/Relaxed,3
+H179,SA151,Cleaning,09/03/2021,24,Tuesday,10:00,12:00,120,-1,Home/Busy,1
+CW982,,,09/03/2021,24,Tuesday,12:00,17:00,300,0,Home/Silent,5
+ED145,,Eating a steak,09/03/2021,24,Tuesday,17:00,20:00,180,2,Home/Relaxed,5
+X893,,Gym time,09/03/2021,24,Tuesday,20:00,21:00,60,2,Other location/ Busy,4
+R523,,A book,09/03/2021,24,Tuesday,21:00,00:00,1260,1,Home/Silent,5
+S801,,,10/03/2021,24,Wednesday,00:00,07:30,450,,,
+UD415,,On the phone,10/03/2021,24,Wednesday,07:30,09:00,90,2,Home/Relaxed,1
+ED145,SA114,,10/03/2021,24,Wednesday,09:00,10:00,60,2,Home/Calm,2
+CW982,,,10/03/2021,24,Wednesday,10:00,14:00,240,0,Home/Silent,5
+ED145,,Eating Pasta,10/03/2021,24,Wednesday,14:00,15:00,60,2,,
+R523,,,10/03/2021,24,Wednesday,15:00,18:00,180,0,Home/Silent,5
+L418,,,10/03/2021,24,Wednesday,18:00,20:00,120,,,
+S801,,,10/03/2021,24,Wednesday,20:00,00:00,1200,,,

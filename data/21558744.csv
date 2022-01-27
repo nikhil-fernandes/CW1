@@ -1,0 +1,56 @@
+﻿PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,Start Date,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,Enjoyment Score,IntensityofWorkout,Productivity
+S801,,,05/03/2021,23,Friday,00:00,08:00,480,,,
+UD415,,Social Media,05/03/2021,23,Friday,08:00,08:15,15,1,,
+O733,,Showering + Brushing Teeth,05/03/2021,23,Friday,08:15,08:30,15,2,,
+H179,,Dishes/Tidying,05/03/2021,23,Friday,08:30,09:30,60,-2,,2
+ED145,,Breakfast,05/03/2021,23,Friday,09:30,09:45,60,2,,0
+L418,UD415,Watching TV,05/03/2021,23,Friday,09:45,10:30,60,1,,0
+R523,L418,,05/03/2021,23,Friday,10:30,11:00,30,1,,1
+EL642,UD415,Lecture/ Reading Lecture Notes,05/03/2021,23,Friday,11:00,13:15,135,0,,3
+ED145,,Making/Eating Lunch,05/03/2021,23,Friday,13:15,13:45,30,1,,2
+R523,,,05/03/2021,23,Friday,13:45,14:15,30,1,,1
+EL642,UD415,Lecture,05/03/2021,23,Friday,14:15,15:15,60,0,,2
+CW982,,,05/03/2021,23,Friday,15:15,16:15,60,-2,,2
+EL642,UD415,Lecture,05/03/2021,23,Friday,16:15,17:15,60,-1,,1
+O733,,Getting ready to exercise,05/03/2021,23,Friday,17:15,17:30,15,0,,0
+X893,,,05/03/2021,23,Friday,17:30,18:30,60,0,High,4
+O733,,Shower,05/03/2021,23,Friday,18:30,18:45,15,2,,0
+EL642,UD415,Lecture Notes,05/03/2021,23,Friday,18:45,19:45,60,1,,2
+ED145,,Making/ Eating Dinner,05/03/2021,23,Friday,19:45,20:30,45,0,,0
+L418,,Playing Games,05/03/2021,23,Friday,20:30,22:00,90,2,,0
+L418,UD415,Watching TV,05/03/2021,23,Friday,22:00,23:00,60,1,,0
+S801,,,05/03/2021,23,Friday,23:00,00:00,60,,,
+S801,,,06/03/2021,23,Saturday,00:00,09:00,540,,,
+H179,,Tidying,06/03/2021,23,Saturday,09:00,09:30,30,-2,,1
+X893,,Light Run,06/03/2021,23,Saturday,09:30,10:45,75,-1,Moderate,2
+O733,,Shower,06/03/2021,23,Saturday,10:45,11:00,15,2,,0
+ED145,,Making Breakfast,06/03/2021,23,Saturday,11:00,11:30,30,0,,0
+UD415,,Watching TV,06/03/2021,23,Saturday,11:30,12:30,60,1,,0
+T695,X893,Walk to Park,06/03/2021,23,Saturday,12:30,13:00,30,1,Low,0
+L418,X893,Walk/Sit in Park,06/03/2021,23,Saturday,13:00,16:00,180,2,Low,0
+T695,X893,Walk back from park,06/03/2021,23,Saturday,16:00,16:30,30,0,Low,0
+UD415,,On phone,06/03/2021,23,Saturday,16:30,17:00,30,1,,0
+ED145,,Making Late Lunch,06/03/2021,23,Saturday,17:00,17:30,30,0,,0
+CW982,UD415,CW,06/03/2021,23,Saturday,17:30,19:30,120,-2,,5
+UD415,,Television,06/03/2021,23,Saturday,19:30,20:15,45,1,,0
+ED145,,Making Dinner/ Eating,06/03/2021,23,Saturday,20:15,21:00,45,1,,1
+H179,,Doing Dishes,06/03/2021,23,Saturday,21:00,21:30,30,-2,,1
+L418,,Drinking/Playing Games,06/03/2021,23,Saturday,21:30,00:00,150,2,,0
+S801,,,08/03/2021,24,Monday,00:00,08:30,510,,,
+UD415,,,08/03/2021,24,Monday,08:30,09:00,30,1,,
+O733,,Shower + teeth,08/03/2021,24,Monday,09:00,09:15,15,0,,
+ED145,,Breakfast,08/03/2021,24,Monday,09:15,09:45,30,2,,
+R523,L418,,08/03/2021,24,Monday,09:45,10:30,45,1,,
+H179,,Dishes,08/03/2021,24,Monday,10:30,11:00,30,-2,,
+CW982,UD415,,08/03/2021,24,Monday,11:00,13:00,120,1,,5
+L418,UD415,Watching TV,08/03/2021,24,Monday,13:00,14:15,75,1,,
+EL642,,,08/03/2021,24,Monday,14:15,15:15,60,-1,,
+ED145,,,08/03/2021,24,Monday,15:15,15:45,30,2,,
+CW982,UD415,,08/03/2021,24,Monday,15:45,18:30,165,0,,5
+H179,,Tidying/Cleaning,08/03/2021,24,Monday,18:30,19:00,30,-2,,1
+ED145,,Dinner,08/03/2021,24,Monday,19:00,20:00,60,2,,0
+X893,,,08/03/2021,24,Monday,20:00,21:00,60,-1,High,5
+O733,,Shower,08/03/2021,24,Monday,21:00,21:15,15,2,,0
+L418,UD415,,08/03/2021,24,Monday,21:15,22:00,45,1,,0
+UD415,,,08/03/2021,24,Monday,22:00,23:00,60,1,,0
+S801,,,08/03/2021,24,Monday,23:00,00:00,60,,,

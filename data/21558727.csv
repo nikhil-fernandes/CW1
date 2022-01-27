@@ -1,0 +1,47 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,PerformedInGroup/Alone,Productivity
+ S801,,Sleeping,08/03/21,24,Monday,00:00:00,09:00:00,540, 2,Alone, 0
+ED145,UD415,Breakfast,08/03/21,24,Monday,09:15:00,09:45:00,30, 1,Group with one more person, 0
+EL642,UD415,Lectures/Research,08/03/21,24,Monday,10:00:00,13:00:00,180, 1,Alone, 2
+ED145,UD415,Lunch,08/03/21,24,Monday,13:00:00,14:00:00,60, 2,Group with one more person, 0
+CW982,EL642,Coursework,08/03/21,24,Monday,14:00:00,17:00:00,180, 0,Alone, 2
+ X893, L418,Workout,08/03/21,24,Monday,17:00:00,18:30:00,90, 2,Group with one more person, 2
+CW982,EL642,Coursework,08/03/21,24,Monday,18:30:00,20:30:00,120, 1,Alone,-1
+ L418,,Meeting friends,08/03/21,24,Monday,20:30:00,22:30:00,120, 2,Group with more than two people ,-1
+ H179, L418,Cleaning,08/03/21,24,Monday,22:30:00,23:00:00,30, 1,Group with one more person, 2
+ED145,UD415,Dinner,08/03/21,24,Monday,23:00:00,23:30:00,30, 1,Group with one more person, 0
+ R523,,Reading before bedtime,08/03/21,24,Monday,23:30:00,23:59:00,29, 2,Alone, 1
+ S801,,Sleeping,09/03/21,24,Tuesday,00:00:00,08:00:00,480, 2,Alone, 0
+ L418,UD415,Scrolling through phone,09/03/21,24,Tuesday,08:00:00,08:30:00,30, 0,Alone,-2
+EL642,UD415,Lectures/Research,09/03/21,24,Tuesday,08:30:00,10:00:00,90,-2,Group with one more person, 2
+ED145,UD415,Breakfast,09/03/21,24,Tuesday,10:00:00,10:30:00,30, 2,Group with one more person, 2
+CW982,UD415,Coursework,09/03/21,24,Tuesday,10:30:00,12:30:00,120, 1,Alone, 1
+ED145,UD415,Lunch,09/03/21,24,Tuesday,12:30:00,13:00:00,30, 2,Alone, 0
+ H179,UD415,Washing utensils,09/03/21,24,Tuesday,13:00:00,13:30:00,30, 1,Alone,-1
+CW982,UD415,Coursework,09/03/21,24,Tuesday,13:30:00,14:30:00,60,-2,Alone, 1
+ T695,UD415,Traveling to riverside,09/03/21,24,Tuesday,14:30:00,14:45:00,15, 0,Alone,-2
+ L418,,Meeting friends,09/03/21,24,Tuesday,14:45:00,15:45:00,60, 2,Group with more than two people ,-1
+ED145, L418,Eating with friends,09/03/21,24,Tuesday,15:45:00,16:00:00,15, 2,Group with more than two people ,-1
+ T695,UD415,Traveling home,09/03/21,24,Tuesday,16:00:00,16:45:00,45,-1,Alone,-1
+ X893,UD415,Workout,09/03/21,24,Tuesday,17:00:00,18:00:00,60, 2,Group with one more person, 2
+CW982,UD415,Coursework,09/03/21,24,Tuesday,18:15:00,20:00:00,105,-1,Alone, 2
+ED145,UD415,Dinner,09/03/21,24,Tuesday,20:00:00,20:45:00,45, 2,Alone, 0
+ H179,UD415,Cleaning,09/03/21,24,Tuesday,20:45:00,21:15:00,30, 1,Group with one more person, 1
+EL642,UD415,Lectures/Research,09/03/21,24,Tuesday,21:30:00,22:30:00,60,-2,Alone,-2
+ R523, L418,Reading before bedtime,09/03/21,24,Tuesday,22:30:00,23:30:00,60, 2,Alone, 1
+ S801,,Sleeping,09/03/21,24,Tuesday,23:30:00,23:59:00,29, 2,Alone, 0
+ S801,,Sleeping,10/03/21,24,Wednesday,00:00:00,08:30:00,510, 2,Alone, 0
+ED145,UD415,Breakfast,10/03/21,24,Wednesday,08:45:00,09:15:00,30, 2,Alone, 1
+EL642,UD415,Lectures/Research,10/03/21,24,Wednesday,09:15:00,11:30:00,135, 2,Group with one more person, 2
+ X893,UD415,Workout,10/03/21,24,Wednesday,11:30:00,12:30:00,60, 2,Group with one more person, 2
+CW982,UD415,Coursework,10/03/21,24,Wednesday,12:45:00,14:45:00,120, 1,Alone, 1
+ED145, O733,Lunch,10/03/21,24,Wednesday,14:45:00,15:15:00,30, 2,Alone, 0
+EL642,UD415,Lectures/Research,10/03/21,24,Wednesday,15:15:00,16:15:00,60, 1,Alone, 1
+ L418,,Meeting friends,10/03/21,24,Wednesday,16:15:00,17:30:00,75, 2,Group with more than two people ,-2
+CW982,UD415,Coursework,10/03/21,24,Wednesday,17:45:00,19:30:00,105, 1,Alone, 2
+ T695,,Traveling to supermarket,10/03/21,24,Wednesday,19:30:00,19:45:00,15, 0,Group with one more person, 0
+ O733,,Shopping at supermarket,10/03/21,24,Wednesday,19:45:00,20:15:00,30, 1,Group with one more person, 1
+ T695,,Traveling home,10/03/21,24,Wednesday,20:15:00,20:30:00,15, 0,Group with one more person, 0
+CW982,EL642,Coursework,10/03/21,24,Wednesday,20:30:00,21:45:00,75, 1,Group with one more person, 1
+ED145,UD415,Dinner,10/03/21,24,Wednesday,22:00:00,22:30:00,30, 2,Alone, 0
+ R523, L418,Reading before bedtime,10/03/21,24,Wednesday,22:30:00,23:15:00,45, 1,Alone,-2
+UD415, L418,Checking Social Media,10/03/21,24,Wednesday,23:15:00,23:59:00,44, 2,Alone,-2

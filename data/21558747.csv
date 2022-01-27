@@ -1,0 +1,32 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,Snacks,EnergyLevelsAtEnd
+S801,,,08/03/21,24,Monday,00:00,09:15,555,2,No,High
+ED145,,Breakfast,08/03/21,24,Monday,09:15,10:00,45,2,Yes,Very High
+EL642,UD415,,08/03/21,24,Monday,10:00,12:30,150,-1,No,Low
+ED145,,Lunch,08/03/21,24,Monday,12:30,13:30,60,1,Yes,High
+CW982,UD415,,08/03/21,24,Monday,13:30,16:00,150,-1,Yes,Very Low
+X893,,Walk,08/03/21,24,Monday,16:00,17:30,90,1,No,Low
+L418,UD415,Browsing Instagram,08/03/21,24,Monday,17:30,18:30,60,2,No,Low
+ED145,,Dinner,08/03/21,24,Monday,18:30,19:30,60,2,Yes,Medium
+L418,UD415,Playstation,08/03/21,24,Monday,19:30,22:30,180,2,Yes,Low
+S801,,,08/03/21,24,Monday,22:30,00:00,90,2,No,Low
+S801,,,09/03/21,24,Tuesday,00:00,08:45,525,2,No,Medium
+ED145,,Breakfast,09/03/21,24,Tuesday,08:45,09:15,30,2,Yes,Very High
+EL642,UD415,,09/03/21,24,Tuesday,09:15,11:15,120,-1,Yes,Medium
+CW982,UD415,,09/03/21,24,Tuesday,11:15,12:15,60,-1,No,Low
+EL642,UD415,,09/03/21,24,Tuesday,12:15,14:15,120,-1,No,Very Low
+ED145,,Lunch,09/03/21,24,Tuesday,14:15,15:15,60,2,Yes,High
+X893,,Bike Ride,09/03/21,24,Tuesday,15:15,16:45,90,1,No,Medium
+CW982,UD415,,09/03/21,24,Tuesday,16:45,18:30,105,-1,No,Low
+ED145,,Dinner,09/03/21,24,Tuesday,18:30,19:30,60,1,Yes,Medium
+CW982,UD415,,09/03/21,24,Tuesday,19:30,22:30,180,-1,Yes,Very Low
+S801,,,09/03/21,24,Tuesday,22:30,00:00,90,2,No,Medium
+S801,,,10/03/21,24,Wednesday,00:00,08:45,525,2,No,Medium
+ED145,,Breakfast,10/03/21,24,Wednesday,08:45,09:15,30,2,Yes,High
+CW982,UD415,,10/03/21,24,Wednesday,09:15,13:30,255,-1,Yes,Low
+ED145,,Lunch,10/03/21,24,Wednesday,13:30,14:30,60,1,Yes,Medium
+CW982,UD415,,10/03/21,24,Wednesday,14:30,17:30,180,-1,Yes,Low
+X893,,Bike Ride,10/03/21,24,Wednesday,17:30,18:30,60,1,No,Very Low
+ED145,,Dinner,10/03/21,24,Wednesday,18:30,19:30,60,2,Yes,Low
+L418,UD415,Playstation,10/03/21,24,Wednesday,19:30,22:00,150,2,No,Low
+L418,UD415,Browsing Instagram,10/03/21,24,Wednesday,22:00,22:30,30,2,Yes,Very Low
+S801,,,10/03/21,24,Wednesday,22:30,00:00,90,2,No,Medium

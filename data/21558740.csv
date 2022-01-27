@@ -1,0 +1,40 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,Nature,Stress
+S801, , ,02/03/21,23,Tuesday,00:00,07:30,450.0,0,No,1.0
+ED145, ,Breakfast,02/03/21,23,Tuesday,07:30,08:45,75.0,-1,Yes (window),1.0
+EL642, , ,02/03/21,23,Tuesday,08:45,11:00,135.00000000000003,1,No,1.0
+X893, ,Walk,02/03/21,23,Tuesday,11:00,11:30,30.0,2,Yes (outdoors),1.0
+CW982, , ,02/03/21,23,Tuesday,11:30,12:30,60.0,0,No,2.0
+ED145,L418,Lunch with family,02/03/21,23,Tuesday,12:30,14:00,90.0,2,Yes (window),1.0
+CW982,UD415, ,02/03/21,23,Tuesday,14:00,18:00,240.0,1,No,2.0
+L418,UD415,Phonecall,02/03/21,23,Tuesday,18:00,19:00,60.0,2,Yes (window),1.0
+H179, ,Cooking,02/03/21,23,Tuesday,19:00,19:30,30.0,2,No,1.0
+ED145, ,Dinner,02/03/21,23,Tuesday,20:00,20:30,30.0,2,No,1.0
+L418,R523, ,02/03/21,23,Tuesday,20:30,21:30,60.0,1,No,1.0
+S801, , ,02/03/21,23,Tuesday,22:00,00:00,120.0,1,No,1.0
+S801, , ,03/03/21,23,Wednesday,00:00,07:00,420.0,0,No,1.0
+ED145,UD415,Breakfast,03/03/21,23,Wednesday,07:00,07:45,45.0,-1,No,1.0
+EL642,UD415, ,03/03/21,23,Wednesday,08:00,10:00,120.0,1,No,1.0
+L418,ED145,Coffee Break,03/03/21,23,Wednesday,10:00,10:45,45.0,1,Yes (window),1.0
+CW982, , ,03/03/21,23,Wednesday,11:00,12:30,90.0,0,No,2.0
+ED145, ,Lunch,03/03/21,23,Wednesday,12:30,13:30,60.0,1,Yes (window),1.0
+CW982, ,Call about coursework,03/03/21,23,Wednesday,13:30,17:30,240.0,1,Yes (window),2.0
+L418, , ,03/03/21,23,Wednesday,17:30,19:00,90.0,2,Yes (window),1.0
+H179, ,Cooking,03/03/21,23,Wednesday,19:00,19:15,15.0,1,No,1.0
+ED145, ,Dinner,03/03/21,23,Wednesday,19:30,20:30,60.0,2,No,1.0
+L418,UD415,TV,03/03/21,23,Wednesday,20:30,22:00,90.0,1,No,1.0
+S801, , ,03/03/21,23,Wednesday,22:00,00:00,120.0,1,No,1.0
+S801, , ,04/03/21,23,Thursday,00:00,07:00,420.0,0,No,1.0
+ED145,UD415,Breakfast,04/03/21,23,Thursday,07:00,08:00,60.0,0,No,1.0
+EL642,UD415, ,04/03/21,23,Thursday,08:00,10:00,120.0,1,Yes (window),1.0
+L418,ED145,Coffee Break,04/03/21,23,Thursday,10:00,10:45,45.0,1,Yes (window),2.0
+CW982, , ,04/03/21,23,Thursday,10:45,12:30,105.0,1,Yes (window),1.0
+ED145,R523,Lunch,04/03/21,23,Thursday,12:30,13:00,30.0,2,Yes (window),1.0
+O733, ,Work at vaccine clinic,04/03/21,23,Thursday,13:00,17:00,240.0,1,No,2.0
+X893, ,Walk,04/03/21,23,Thursday,17:00,18:00,60.0,2,Yes (outdoors),1.0
+L418,UD415, ,04/03/21,23,Thursday,18:00,18:30,30.0,1,No,1.0
+H179, ,Cook,04/03/21,23,Thursday,18:30,19:00,30.0,1,No,1.0
+ED145, ,Dinner,04/03/21,23,Thursday,19:00,20:00,60.0,2,No,1.0
+H179, ,Clear up dinner,04/03/21,23,Thursday,20:00,20:30,30.0,0,No,1.0
+UD415, ,Watch TV,04/03/21,23,Thursday,20:30,21:30,60.0,1,No,1.0
+R523, , ,04/03/21,23,Thursday,21:30,22:00,30.0,1,No,1.0
+S801, , ,04/03/21,23,Thursday,22:00,00:00,120.0,0,No,1.0

@@ -1,0 +1,48 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,SocialEngagement,TimeExpectations
+S801,,Sleeping,2021-03-07,23,Sunday,00:00:00,06:00:00,360.0,2,None,0
+L418,UD415,Reading the news,2021-03-07,23,Sunday,06:00:00,06:30:00,30.0,1,None,0
+H179,,Aquarium water testing,2021-03-07,23,Sunday,06:30:00,07:00:00,30.0,1,None,0
+ED145,H179,Drinking coffee and cleaning,2021-03-07,23,Sunday,07:00:00,07:30:00,30.0,0,None,0
+CW982,,ML2 Coursework,2021-03-07,23,Sunday,07:30:00,10:30:00,180.0,-1,None,0
+H179,R523,Researching fire safety legislature,2021-03-07,23,Sunday,10:30:00,10:45:00,15.0,-2,None,1
+CW982,EL642,ML2 Coursework,2021-03-07,23,Sunday,10:45:00,12:30:00,105.0,0,Light,-1
+ED145,,Eating Lunch,2021-03-07,23,Sunday,12:30:00,12:45:00,15.0,2,None,0
+CW982,EL642,ML2 Coursework,2021-03-07,23,Sunday,12:45:00,17:00:00,255.0,1,Light,1
+UD415,L418,Phoning my sister,2021-03-07,23,Sunday,17:00:00,18:00:00,60.0,2,Constant,2
+ED145,,Dinner,2021-03-07,23,Sunday,18:00:00,19:00:00,60.0,2,Moderate,0
+CW982,EL642,ML2 Coursework,2021-03-07,23,Sunday,19:00:00,21:00:00,120.0,1,None,0
+UD415,L418,Watching netflix,2021-03-07,23,Sunday,21:00:00,22:00:00,60.0,2,None,1
+S801,,Sleeping,2021-03-07,23,Sunday,22:00:00,00:00:00,120.0,2,None,0
+S801,,Sleeping,2021-03-08,24,Monday,00:00:00,06:00:00,360.0,2,None,0
+R523,L418,Doing crossword,2021-03-08,24,Monday,06:00:00,06:45:00,45.0,2,None,0
+H179,L418,Aquarium water tests,2021-03-08,24,Monday,06:45:00,07:15:00,30.0,1,None,0
+ED145,H179,Drinking coffee and cleaning,2021-03-08,24,Monday,07:15:00,08:00:00,45.0,1,None,0
+CW982,EL642,ADS Coursework,2021-03-08,24,Monday,08:00:00,12:30:00,270.0,-2,None,2
+ED145,,Lunch,2021-03-08,24,Monday,12:30:00,13:15:00,45.0,2,None,0
+CW982,EL642,ADS Coursework,2021-03-08,24,Monday,13:15:00,14:00:00,45.0,0,None,2
+R523,,Researching property law,2021-03-08,24,Monday,14:00:00,14:30:00,30.0,-2,None,1
+H179,,Meeting with solicitor,2021-03-08,24,Monday,14:30:00,15:00:00,30.0,0,Constant,0
+H179,,Meeting with building committee,2021-03-08,24,Monday,15:00:00,15:30:00,30.0,0,Heavy,-1
+CW982,EL642,ADS Coursework,2021-03-08,24,Monday,15:30:00,17:30:00,120.0,0,None,0
+ED145,,Dinner,2021-03-08,24,Monday,17:30:00,18:00:00,30.0,2,None,0
+CW982,EL642,ADS Coursework,2021-03-08,24,Monday,18:00:00,21:00:00,180.0,1,None,0
+H179,,Fixing faulty fire alarm,2021-03-08,24,Monday,21:00:00,21:30:00,30.0,-2,Light,1
+H179,,Calling maintenance team,2021-03-08,24,Monday,21:30:00,22:00:00,30.0,-2,Constant,1
+CW982,EL642,ADS Coursework,2021-03-08,24,Monday,22:00:00,23:30:00,90.0,0,None,1
+S801,,Sleeping,2021-03-08,24,Monday,23:30:00,00:00:00,30.0,2,None,0
+S801,,sleeping,2021-03-09,24,Tuesday,00:00:00,03:00:00,180.0,2,None,-1
+H179,,disabling fire alarm,2021-03-09,24,Tuesday,03:00:00,03:15:00,15.0,-2,Moderate,2
+S801,,Sleeping,2021-03-09,24,Tuesday,03:15:00,04:00:00,45.0,2,None,0
+H179,,Disabling fire alarm,2021-03-09,24,Tuesday,04:00:00,04:15:00,15.0,-2,None,2
+R523,L418,Researching slime moulds,2021-03-09,24,Tuesday,04:15:00,06:00:00,105.0,2,None,2
+H179,L418,Tetsing aquarium water,2021-03-09,24,Tuesday,06:00:00,06:30:00,30.0,1,None,0
+ED145,,Drinking coffee,2021-03-09,24,Tuesday,06:30:00,07:00:00,30.0,2,None,1
+CW982,EL642,ML2 Coursework,2021-03-09,24,Tuesday,07:00:00,13:00:00,360.0,1,None,0
+ED145,,Lunch,2021-03-09,24,Tuesday,13:00:00,13:15:00,15.0,2,None,0
+CW982,EL642,ML2 Coursework,2021-03-09,24,Tuesday,13:15:00,15:30:00,135.0,1,None,0
+H179,,Arranging solicitor appointments,2021-03-09,24,Tuesday,15:30:00,17:00:00,90.0,-2,Heavy,2
+ED145,,Dinner,2021-03-09,24,Tuesday,17:00:00,18:00:00,60.0,2,Moderate,1
+CW982,EL642,ADS Coursework,2021-03-09,24,Tuesday,18:00:00,20:00:00,120.0,0,None,0
+CW982,EL642,ML2 Coursework,2021-03-09,24,Tuesday,20:00:00,22:30:00,150.0,2,None,0
+H179,,Disabling fire alarm,2021-03-09,24,Tuesday,22:30:00,22:45:00,15.0,-2,None,2
+S801,,Sleeping,2021-03-09,24,Tuesday,22:45:00,00:00:00,75.0,2,None,0

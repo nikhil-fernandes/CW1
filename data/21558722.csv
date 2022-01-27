@@ -1,0 +1,42 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,peace of mind score,productivity
+S801,,Sleeping,08-03-2021,22,Monday,00:15:00,08:00:00,465,2,2-peace of mind,2-positive
+X893,UD415,listening to music while doing yoga,08-03-2021,22,Monday,08:00:00,08:15:00,15,-1,2-peace of mind,2-positive
+H179,,Cleaning house,08-03-2021,22,Monday,08:15:00,09:15:00,60,0,1- partially disturbed,1-neither negative nor positive
+ED145,,having breakfast,08-03-2021,22,Monday,09:15:00,10:15:00,60,1,2-peace of mind,2-positive
+EL642,UD415,Attending online lecture classes using PC,08-03-2021,22,Monday,10:15:00,12:15:00,120,0,2-peace of mind,2-positive
+ED145,ED145,drinking Juice while having lunch,08-03-2021,22,Monday,12:15:00,13:30:00,75,1,1- partially disturbed,0-negative
+UD415,,"surfing social media such as Facebook, Twitter on mobile",08-03-2021,22,Monday,13:30:00,14:30:00,60,2,0-disturbed mind,0-negative
+R523,T695,Reading books while travelling in train or car,08-03-2021,22,Monday,14:30:00,17:00:00,150,1,1- partially disturbed,1-neither negative nor positive
+PW101,,working part time in the groccery shop,08-03-2021,22,Monday,17:00:00,21:00:00,240,1,0-disturbed mind,0-negative
+ED145,,having dinner,08-03-2021,22,Monday,21:00:00,22:00:00,60,1,1- partially disturbed,1-neither negative nor positive
+CW982,UD415,doing course work using laptop,08-03-2021,22,Monday,22:00:00,01:00:00,180,2,0-disturbed mind,0-negative
+S801,,Sleeping,09-03-2021,22,Tuesday,01:00:00,09:00:00,480,2,2-peace of mind,2-positive
+O733,, Freshen up and getting dressed,09-03-2021,22,Tuesday,09:00:00,09:30:00,30,-1,2-peace of mind,2-positive
+ED145,ED145,Drinking milk and having masala oats for breakfast,09-03-2021,22,Tuesday,09:30:00,10:00:00,30,1,1- partially disturbed,2-positive
+H179,UD415,listening to music while cleaning house and vessels,09-03-2021,22,Tuesday,10:00:00,10:45:00,45,1,2-peace of mind,2-positive
+EL642,UD415,Attending online lecture classes using PC,09-03-2021,22,Tuesday,10:45:00,12:00:00,75,0,2-peace of mind,2-positive
+ED145,,having lunch,09-03-2021,22,Tuesday,12:00:00,12:30:00,30,2,1- partially disturbed,1-neither negative nor positive
+UD415,,"surfing social media such as Facebook, Twitter on mobile",09-03-2021,22,Tuesday,12:30:00,13:00:00,30,2,1- partially disturbed,1-neither negative nor positive
+R523,UD415,Reading Ebooks of few authors on literature,09-03-2021,22,Tuesday,13:00:00,13:30:00,30,1,0-disturbed mind,0-negative
+CW982,UD415,doing course work using laptop,09-03-2021,22,Tuesday,13:30:00,16:00:00,150,1,0-disturbed mind,0-negative
+X893,UD415,doing exercise and listeing to news channel on TV,09-03-2021,22,Tuesday,16:00:00,17:00:00,60,1,2-peace of mind,2-positive
+L418,UD415,watching Television,09-03-2021,22,Tuesday,17:00:00,18:00:00,60,2,2-peace of mind,2-positive
+EL642,CW982,Going through recorded lecture notes and completing coursework,09-03-2021,22,Tuesday,18:00:00,20:00:00,120,-1,2-peace of mind,2-positive
+ED145,,having dinner,09-03-2021,22,Tuesday,20:00:00,21:00:00,60,1,1- partially disturbed,1-neither negative nor positive
+L418,,chit chatting with flatmates,09-03-2021,22,Tuesday,21:00:00,22:00:00,60,2,2-peace of mind,2-positive
+EL642,UD415,doing project work using PC,09-03-2021,22,Tuesday,22:00:00,01:30:00,210,1,2-peace of mind,2-positive
+S801,,Sleeping,10-03-2021,22,Wednesday,01:30:00,09:30:00,480,2,2-peace of mind,2-positive
+O733,,getting freshen up and dressed,10-03-2021,22,Wednesday,09:30:00,10:00:00,30,-1,2-peace of mind,2-positive
+ED145,ED145,Drinking juice and having sandwich for breakfast,10-03-2021,22,Wednesday,10:00:00,10:30:00,30,0,1- partially disturbed,1-neither negative nor positive
+T695,,travelling to meet friends and then get back home,10-03-2021,22,Wednesday,10:30:00,12:00:00,90,1,0-disturbed mind,0-negative
+L418,,taking rest,10-03-2021,22,Wednesday,12:00:00,12:30:00,30,0,0-disturbed mind,0-negative
+ED145,,having lunch,10-03-2021,22,Wednesday,12:30:00,13:00:00,30,1,0-disturbed mind,0-negative
+H179,O733,cleaning house with singing songs,10-03-2021,22,Wednesday,13:00:00,13:30:00,30,2,1- partially disturbed,0-negative
+R523,UD415,reading newspaper on laptop,10-03-2021,22,Wednesday,13:30:00,14:00:00,30,1,2-peace of mind,2-positive
+CW982,UD415,doing course work using laptop,10-03-2021,22,Wednesday,14:00:00,17:30:00,210,1,2-peace of mind,2-positive
+X893,UD415,doing yoga listening to Music,10-03-2021,22,Wednesday,17:30:00,18:00:00,30,1,2-peace of mind,2-positive
+L418,UD415,playing video games in TV,10-03-2021,22,Wednesday,18:00:00,18:30:00,30,2,1- partially disturbed,1-neither negative nor positive
+EL642,UD415,Going through recorded lecture notes using laptop,10-03-2021,22,Wednesday,18:30:00,21:00:00,150,0,1- partially disturbed,0-negative
+ED145,,having dinner,10-03-2021,22,Wednesday,21:00:00,22:00:00,60,0,1- partially disturbed,1-neither negative nor positive
+L418,,chit chatting with flatmates,10-03-2021,22,Wednesday,22:00:00,23:00:00,60,2,2-peace of mind,2-positive
+EL642,UD415,doing project work,10-03-2021,22,Wednesday,23:00:00,01:30:00,150,0,2-peace of mind,2-positive

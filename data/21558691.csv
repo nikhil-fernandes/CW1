@@ -1,0 +1,44 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,UseSocialMedia,StressfulScore
+O733,OTH,Autofill,2021-03-09,24,Tuesday,00:00,01:00,59,0,0,0
+S801,ESS,,2021-03-09,24,Tuesday,01:00,08:25,445,1,1,0
+O733,OTH,Autofill,2021-03-09,24,Tuesday,08:25,08:30,5,0,0,0
+ED145,ESS,Breakfast with Coffee,2021-03-09,24,Tuesday,08:30,08:45,15,0,0,-2
+CW982,PRO,TEAMS call,2021-03-09,24,Tuesday,08:45,09:15,30,1,0,2
+O733,OTH,Autofill,2021-03-09,24,Tuesday,09:15,09:45,30,0,0,0
+EL642,PRO,LAB session,2021-03-09,24,Tuesday,09:45,13:15,210,2,0,0
+ED145,ESS,Lunch,2021-03-09,24,Tuesday,13:15,14:00,45,1,1,-1
+CW982,PRO,TEAMS call,2021-03-09,24,Tuesday,14:00,16:30,150,2,1,2
+X893,ENT,Walk,2021-03-09,24,Tuesday,16:30,18:30,120,2,0,-2
+O733,OTH,Autofill,2021-03-09,24,Tuesday,18:30,19:00,30,0,0,0
+ED145,ESS,Dinner,2021-03-09,24,Tuesday,19:00,20:00,60,1,0,-2
+H179,ESS,,2021-03-09,24,Tuesday,20:00,20:30,30,0,1,-2
+CW982,PRO,Assignment,2021-03-09,24,Tuesday,20:30,22:00,90,2,0,1
+L418,ENT,Monopoly deal,2021-03-09,24,Tuesday,22:00,23:00,60,1,1,2
+S801,ESS,,2021-03-09,24,Tuesday,23:00,07:30,510,0,1,2
+O733,OTH,Autofill,2021-03-10,24,Wednesday,07:30,07:45,15,0,0,0
+ED145,ESS,Breakfast with Coffee,2021-03-10,24,Wednesday,07:45,08:30,45,1,1,0
+X893,ENT,Running,2021-03-10,24,Wednesday,08:30,09:15,45,1,1,-2
+O733,OTH,Autofill,2021-03-10,24,Wednesday,09:15,09:45,30,0,0,0
+EL642,PRO,IPT session,2021-03-10,24,Wednesday,09:45,12:00,135,2,0,2
+O733,OTH,Autofill,2021-03-10,24,Wednesday,12:00,13:00,60,0,0,0
+ED145,ESS,Lunch,2021-03-10,24,Wednesday,13:00,14:00,60,1,1,-1
+EL642,PRO,IPT session,2021-03-10,24,Wednesday,14:00,18:00,240,-1,0,2
+X893,ENT,Walk,2021-03-10,24,Wednesday,18:00,19:00,60,1,0,-2
+ED145,ESS,Dinner,2021-03-10,24,Wednesday,19:00,20:00,60,1,1,-2
+O733,OTH,Autofill,2021-03-10,24,Wednesday,20:00,20:15,15,0,0,0
+CW982,PRO,,2021-03-10,24,Wednesday,20:15,22:15,120,2,0,0
+L418,ENT,Monopoly deal,2021-03-10,24,Wednesday,22:15,23:00,45,1,1,2
+S801,ESS,,2021-03-10,24,Wednesday,23:00,07:30,510,0,1,2
+O733,OTH,Autofill,2021-03-11,24,Thursday,07:30,07:45,15,0,0,0
+ED145,ESS,Breakfast with Coffee,2021-03-11,24,Thursday,07:45,08:30,45,1,1,0
+O733,OTH,Autofill,2021-03-11,24,Thursday,08:30,09:45,75,0,0,0
+EL642,PRO,IPT session,2021-03-11,24,Thursday,09:45,12:00,135,2,0,2
+O733,OTH,Autofill,2021-03-11,24,Thursday,12:00,13:00,60,0,0,0
+ED145,ESS,Lunch,2021-03-11,24,Thursday,13:00,14:00,60,1,1,-1
+EL642,PRO,IPT session,2021-03-11,24,Thursday,14:00,18:00,240,-1,0,2
+X893,ENT,Walk,2021-03-11,24,Thursday,18:00,19:00,60,1,0,-2
+ED145,ESS,Dinner,2021-03-11,24,Thursday,19:00,20:00,60,1,1,-2
+O733,OTH,Autofill,2021-03-11,24,Thursday,20:00,20:15,15,0,0,0
+CW982,PRO,,2021-03-11,24,Thursday,20:15,22:15,120,2,0,0
+L418,ENT,Monopoly deal,2021-03-11,24,Thursday,22:15,23:15,60,1,1,2
+S801,ESS,,2021-03-11,24,Thursday,23:15,07:30,495,0,1,2

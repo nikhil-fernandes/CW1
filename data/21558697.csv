@@ -1,0 +1,31 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,QualityofSleep,EnergyRating
+S801,,,02/03/2021,23,Tuesday,00:00,10:00,600,,7,
+ED145,,Making pancakes,02/03/2021,23,Tuesday,10:00,11:00,60,1,7,0
+EL642,,Back to back lectures,02/03/2021,23,Tuesday,11:00,13:00,120,-1,7,-1
+ED145,,Making Lunch,02/03/2021,23,Tuesday,13:00,13:30,30,1,7,1
+X893,,Running,02/03/2021,23,Tuesday,13:30,14:30,60,2,7,2
+H179,,Cleaning the kitchen,02/03/2021,23,Tuesday,15:00,16:00,60,-1,7,
+R523,EL642,Reading about dissertation topics,02/03/2021,23,Tuesday,16:00,18:00,120,1,7,
+UD415,L418,Playing PS5 with friends,02/03/2021,23,Tuesday,18:00,20:00,120,2,7,2
+ED145,,Dinner,02/03/2021,23,Tuesday,20:00,21:00,60,1,7,
+UD415,L418,,02/03/2021,23,Tuesday,21:00,23:00,120,2,7,-1
+S801,,,02/03/2021,23,Tuesday,23:00,00:00,60,,7,
+S801,,,03/03/2021,23,Wednesday,00:00,09:00,540,-1.0,3,
+CW982,,Research ADS Lab 3 form,03/03/2021,23,Wednesday,09:00,11:00,120,1.0,3,1
+ED145,,Making brunch,03/03/2021,23,Wednesday,11:00,12:30,90,2.0,3,0
+PW101,,Tutoring,03/03/2021,23,Wednesday,12:30,14:00,90,1.0,3,2
+CW982,,BML coursework,03/03/2021,23,Wednesday,14:00,17:00,180,0.0,3,-1
+UD415,,Netflix,03/03/2021,23,Wednesday,17:00,19:00,120,2.0,3,-2
+H179,X893,Food shop,03/03/2021,23,Wednesday,19:00,20:30,90,-1.0,3,-2
+UD415,,,03/03/2021,23,Wednesday,20:30,22:00,90,,3,-2
+S801,,,03/03/2021,23,Wednesday,22:00,00:00,120,,3,
+S801,,,04/03/2021,23,Thursday,00:00,11:00,660,,10,
+ED145,,Full English,04/03/2021,23,Thursday,11:00,11:30,30,2,10,2
+X893,,Running and rugby,04/03/2021,23,Thursday,11:30,13:00,90,2,10,2
+H179,,Showering and tidying my room,04/03/2021,23,Thursday,13:00,14:00,60,1,10,0
+ED145,,,04/03/2021,23,Thursday,14:00,14:45,45,,10,
+UD415,,,04/03/2021,23,Thursday,14:45,15:45,60,2,10,1
+CW982,,,04/03/2021,23,Thursday,15:45,17:00,75,,10,
+R523,,,04/03/2021,23,Thursday,17:00,19:00,120,-1,10,1
+ED145,,,04/03/2021,23,Thursday,19:00,19:45,45,1,10,0
+UD415,,,04/03/2021,23,Thursday,19:45,22:00,135,1,10,0

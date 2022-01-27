@@ -1,0 +1,20 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,pressure_score,quality_score
+CW982,UD415,ML Coursework,03/09/2021,24,Tuesday,00:00:00,04:30:00,270.0,1,5,2
+S801,S801,missing,03/09/2021,24,Tuesday,04:45:00,09:45:00,300.0,2,0,2
+H179,H179,Cleaning House,03/09/2021,24,Tuesday,10:00:00,11:15:00,75.0,-2,1,2
+ED145,ED145,Cooking and Eating,03/09/2021,24,Tuesday,11:30:00,13:00:00,90.0,0,1,2
+L418,L418,Games,03/09/2021,24,Tuesday,13:15:00,15:15:00,120.0,2,0,2
+S801,S801,missing,03/09/2021,24,Tuesday,15:30:00,17:00:00,90.0,2,0,2
+CW982,UD415,ML Coursework,03/09/2021,24,Tuesday,00:00:00,23:45:00,1425.0,1,5,2
+S801,S801,missing,03/09/2021,24,Tuesday,04:45:00,09:45:00,300.0,2,0,2
+H179,H179,Cleaning House,03/09/2021,24,Tuesday,10:00:00,11:15:00,75.0,-2,1,2
+ED145,ED145,Cooking and Eating,03/09/2021,24,Tuesday,11:30:00,13:00:00,90.0,0,1,2
+L418,L418,Games,03/09/2021,24,Tuesday,13:15:00,15:15:00,120.0,2,0,2
+S801,S801,missing,03/09/2021,24,Tuesday,15:30:00,17:00:00,90.0,2,0,2
+CW982,UD415,ML Coursework,03/09/2021,24,Tuesday,00:00:00,23:45:00,1425.0,1,5,2
+S801,S801,missing,03/09/2021,24,Tuesday,04:45:00,09:45:00,300.0,2,0,2
+H179,H179,Cleaning House,03/09/2021,24,Tuesday,10:00:00,11:15:00,75.0,-2,1,2
+ED145,ED145,Cooking and Eating,03/09/2021,24,Tuesday,11:30:00,13:00:00,90.0,0,1,2
+L418,L418,Games,03/09/2021,24,Tuesday,13:15:00,15:15:00,120.0,2,0,2
+S801,S801,missing,03/09/2021,24,Tuesday,15:30:00,17:00:00,90.0,2,0,2
+CW982,UD415,ML Coursework,03/09/2021,24,Tuesday,17:15:00,23:45:00,390.0,1,5,2

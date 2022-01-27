@@ -1,0 +1,19 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,mood,fatigue
+ED145,,having breakfast,2021-2-2,2,Tuesday ,8:00:00,8:15:00,15,-1,unhappy,busy
+EL642,X893,two lectures,2021-2-2,2,Tuesday ,9:15:00,11:15:00,120,-2,unhappy,busy
+L418,,on the phone before sleeping,2021-2-2,2,Tuesday ,22:00:00,1:30:00,1230,2,unhappy,busy
+R523,,reading pappers,2021-2-2,2,Tuesday ,16:00:00,17:00:00,60,2,unhappy,busy
+S801,,doing coursework,2021-2-2,2,Tuesday ,1:30:00,9:30:00,480,-2,unhappy,busy
+ED145,,having brunch,2019-8-2,2,Friday,10:10:00,10:30:00,20,2,happy,busy
+EL642,X893,two lectures,2019-8-2,2,Friday,10:30:00,13:30:00,180,-2,happy,busy
+L418,,on the phone before sleeping,2019-8-2,2,Friday,14:00:00,15:00:00,60,2,happy,busy
+R523,,reading pappers,2019-8-2,2,Friday,16:00:00,16:15:00,15,2,happy,busy
+S801,,doing coursework,2019-8-2,2,Friday,1:00:00,11:10:00,610,-2,happy,busy
+UD415,,using laptop,2019-8-2,2,Friday,16:30:00,18:00:00,90,0,happy,busy
+CW982,,doing coursework,2019-8-2,2,Friday,18:00:00,23:00:00,300,2,happy,busy
+ED145,,have lunch with family,2021-2-2,2,Tuesday ,12:00:00,13:00:00,60,2,happy,easy
+EL642,X893,two lectures,2021-2-2,2,Tuesday ,14:15:00,17:15:00,180,-2,happy,easy
+L418,,hanging out with friends,2021-2-2,2,Tuesday ,17:30:00,19:00:00,90,2,happy,easy
+R523,,reading pappers,2021-2-2,2,Tuesday ,16:00:00,17:00:00,60,2,happy,easy
+R523,,doing coursework,2021-2-2,2,Tuesday ,20:00:00,21:30:00,90,-2,happy,easy
+S801,,Sleeping,2021-2-2,2,Tuesday ,23:00:00,8:00:00,900,2,happy,easy

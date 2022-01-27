@@ -1,0 +1,25 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,How many people are you with?,Are you at home?
+S801,,,04/03/21,22,Thursday,00:00,09:30,570,1,0,Yes
+ED145,,Breakfast,04/03/21,22,Thursday,09:30,10:00,30,1,1,Yes
+CW982,,ML2 courswork,04/03/21,22,Thursday,10:00,13:30,210,-1,0,Yes
+ED145,,Lunch,04/03/21,22,Thursday,13:30,14:30,60,2,2,Yes
+L418,UD415,Watching TV,04/03/21,22,Thursday,14:30,16:30,120,2,2,Yes
+X893,,Running,04/03/21,22,Thursday,16:30,17:00,30,-2,1,No
+O733,,Shower,04/03/21,22,Thursday,17:00,17:15,15,0,0,Yes
+CW982,,ML2 courswork,04/03/21,22,Thursday,17:15,20:00,165,0,1,No
+ED145,,Dinner,04/03/21,22,Thursday,20:00,21:00,60,2,2,No
+L418,UD415,Playing PS5,04/03/21,22,Thursday,21:00,00:15,195,1,2,No
+S801,,,05/03/21,22,Friday,00:15,09:45,570,1,1,No
+ED145,,Breakfast,05/03/21,22,Friday,09:45,10:15,30,1,1,No
+CW982,,ML2 courswork at library,05/03/21,22,Friday,10:15,15:00,285,1,More than 4,No
+ED145,,Lunch,05/03/21,22,Friday,15:00,15:30,30,-2,0,No
+CW982,,ML2 courswork at library,05/03/21,22,Friday,15:30,20:00,270,1,More than 4,No
+ED145,,Dinner,05/03/21,22,Friday,20:15,21:00,45,-2,2,Yes
+L418,UD415,Playing PS5,05/03/21,22,Friday,21:00,01:15,255,1,2,Yes
+S801,,,06/03/21,22,Saturday,01:15,09:30,495,1,0,Yes
+ED145,,Breakfast,06/03/21,22,Saturday,09:30,10:00,30,1,1,Yes
+CW982,,ML2 courswork,06/03/21,22,Saturday,10:00,13:30,210,-1,0,Yes
+ED145,,Lunch,06/03/21,22,Saturday,13:30,14:30,60,2,2,Yes
+L418,UD415,Watching TV,06/03/21,22,Saturday,14:30,19:30,300,2,0,Yes
+ED145,,Dinner,06/03/21,22,Saturday,20:00,21:00,60,0,0,Yes
+S801,,,06/03/21,22,Saturday,21:00,00:00,180,1,0,Yes

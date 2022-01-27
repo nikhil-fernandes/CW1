@@ -1,0 +1,33 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,SocialMediaPlatformUsed,SleepQuality
+S801,,,06/03/21,23,Saturday,02:30,10:30,480,,,1
+O733,UD415,Getting ready/hygeine,06/03/21,23,Saturday,10:30,11:30,60,0,Media Sharing,
+ED145,UD415,Breakfast and tv,06/03/21,23,Saturday,11:30,13:30,120,1,Other,
+CW982,L418,CW and music,06/03/21,23,Saturday,13:30,15:30,120,1,,
+PW101,,,06/03/21,23,Saturday,15:30,16:15,45,,,
+ED145,UD415,Cooking and dinner,06/03/21,23,Saturday,16:30,18:30,120,1,Media Sharing,
+T695,,Shopping,06/03/21,23,Saturday,18:45,20:00,75,,,
+L418,UD415,Tv ,06/03/21,23,Saturday,20:00,22:15,135,2,Other,
+CW982,,,06/03/21,23,Saturday,22:15,00:00,105.0,,,
+O733,UD415,Skincare and shower,07/03/21,23,Sunday,00:00,01:15,75,,Social,
+S801,,,11/03/21,24,Thursday,03:30,07:30,240,-2,,-2
+CW982,,Coursework,11/03/21,24,Thursday,07:30,09:15,105,-2,,
+EL642,,Lectures,11/03/21,24,Thursday,09:30,12:15,165,-2,,
+ED145,UD415,Brunch,11/03/21,24,Thursday,12:15,13:00,45,1,Media Sharing,
+CW982,UD415,Cw and music,11/03/21,24,Thursday,13:00,16:15,195,1,Media Sharing,
+ED145,H179,Cooking dinner and cleaning,11/03/21,24,Thursday,16:15,18:15,120,,,
+CW982,UD415,Cw and music,11/03/21,24,Thursday,18:30,21:45,195,0,Media Sharing,
+L418,,Tv,11/03/21,24,Thursday,21:45,22:30,45,1,,
+CW982,UD415,Cw and listening to music,11/03/21,24,Thursday,22:45,02:30,225.0,,Media Sharing,
+S801,,,12/03/21,24,Friday,02:30,09:45,435,,,0
+S801,,,01/03/21,23,Monday,02:30,10:30,480,,,1
+L418,UD415,Getting ready/skincare and checking phone,01/03/21,23,Monday,10:30,11:30,60,-1,Social,
+X893,UD415,Roller skating and music,01/03/21,23,Monday,11:30,12:30,60,2,Media Sharing,
+L418,ED145,Tv and lunch,01/03/20,-30,Sunday,12:30,14:00,90,1,,
+EL642,,Lecture,01/03/21,23,Monday,14:15,15:15,60,,,
+CW982,UD415,Dissertation research,01/03/21,23,Monday,15:15,16:15,60,0,Discussion,
+ED145,H179,Dinner prep and cleaning,01/03/21,23,Monday,16:15,18:00,105,2,,
+CW982,UD415,Coursework and music,01/03/21,23,Monday,18:00,20:15,135,,Media Sharing,
+L418,,Tv with family,01/03/21,23,Monday,20:15,22:00,105,2,,
+O733,,Skincare and Hygeine,01/03/21,23,Monday,22:00,23:00,60,,,
+L418,UD415,Surfing the internet,01/03/21,23,Monday,23:00,02:15,195.0,0,Media Sharing,
+S801,,,02/03/21,23,Tuesday,02:15,10:00,465,,,0

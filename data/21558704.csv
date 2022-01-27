@@ -1,0 +1,51 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,Alone,Location
+S801,,,05/03/2021,23,Friday,00:00,09:00,540,1,TRUE,Student house
+UD415,,Checking social media.,05/03/2021,23,Friday,09:00,09:45,45,1,TRUE,Student house
+O733,,Get ready for the day.,05/03/2021,23,Friday,09:45,10:15,30,0,TRUE,Student house
+EL642,,Lectures.,05/03/2021,23,Friday,10:15,12:15,120,-1,TRUE,Student house
+ED145,,Lunch.,05/03/2021,23,Friday,12:15,13:15,60,1,FALSE,Student house
+EL642,,Lecture.,05/03/2021,23,Friday,13:15,14:15,60,0,TRUE,Student house
+CW982,,,05/03/2021,23,Friday,14:15,16:00,105,1,TRUE,Student house
+ED145,,Tea break.,05/03/2021,23,Friday,16:00,16:15,15,1,FALSE,Student house
+CW982,,,05/03/2021,23,Friday,16:15,17:30,75,1,TRUE,Student house
+T695,,Drive to the supermarket.,05/03/2021,23,Friday,17:30,17:45,15,0,FALSE,Travelling
+H179,,Shop for food,05/03/2021,23,Friday,17:45,18:15,30,2,FALSE,Supermarket
+T695,,Drive home.,05/03/2021,23,Friday,18:15,18:30,15,1,FALSE,Travelling
+ED145,,Dinner.,05/03/2021,23,Friday,18:30,19:30,60,2,FALSE,Student house
+H179,,Wash-up.,05/03/2021,23,Friday,19:30,20:00,30,-1,FALSE,Student house
+L418,,Party.,05/03/2021,23,Friday,20:00,00:00,240,2,FALSE,Student house
+L418,,Party.,06/03/2021,23,Saturday,00:00,01:00,60,2,FALSE,Student house
+S801,,,06/03/2021,23,Saturday,01:00,10:00,540,1,TRUE,Student house
+ED145,,Eat breakfast.,06/03/2021,23,Saturday,10:00,10:30,30,1,FALSE,Student house
+UD415,,Check social media.,06/03/2021,23,Saturday,10:30,11:30,60,1,TRUE,Student house
+O733,,Get ready for the day.,06/03/2021,23,Saturday,11:30,11:45,15,0,TRUE,Student house
+H179,,Clean up.,06/03/2021,23,Saturday,11:45,12:45,60,-1,FALSE,Student house
+ED145,,Lunch.,06/03/2021,23,Saturday,12:45,13:45,60,1,FALSE,Student house
+X893,,Play frisbee in the park.,06/03/2021,23,Saturday,13:45,14:45,60,2,FALSE,Outside
+CW982,,,06/03/2021,23,Saturday,14:45,16:00,75,1,TRUE,Student house
+ED145,,Tea break.,06/03/2021,23,Saturday,16:00,16:15,15,1,FALSE,Student house
+CW982,,,06/03/2021,23,Saturday,16:15,17:30,75,1,TRUE,Student house
+T695,,Drive to the supermarket.,06/03/2021,23,Saturday,17:45,18:00,15,1,FALSE,Travelling
+H179,,Shop for food.,06/03/2021,23,Saturday,18:00,18:30,30,2,FALSE,Supermarket
+T695,,Drive home.,06/03/2021,23,Saturday,18:30,18:45,15,1,FALSE,Travelling
+ED145,,Dinner.,06/03/2021,23,Saturday,18:45,19:45,60,2,FALSE,Student house
+L418,,Watch a film.,06/03/2021,23,Saturday,20:00,22:00,120,2,FALSE,Student house
+L418,,Discuss the film.,06/03/2021,23,Saturday,22:30,23:00,30,2,FALSE,Student house
+UD415,,Check social media.,06/03/2021,23,Saturday,23:00,23:30,30,1,TRUE,Student house
+O733,,Get ready for bed.,06/03/2021,23,Saturday,23:30,23:45,15,-1,TRUE,Student house
+S801,,,06/03/2021,23,Saturday,23:45,00:00,15,1,TRUE,Student house
+S801,,,07/03/2021,23,Sunday,00:00,09:00,540,1,TRUE,Student house
+UD415,,Check social media.,07/03/2021,23,Sunday,09:00,09:30,30,1,TRUE,Student house
+L418,,Do the crossword.,07/03/2021,23,Sunday,09:30,10:30,60,2,FALSE,Student house
+O733,,Get ready for the day,07/03/2021,23,Sunday,10:30,10:45,15,0,TRUE,Student house
+X893,,Go for a walk.,07/03/2021,23,Sunday,10:45,12:15,90,2,FALSE,Outside
+ED145,,Brunch.,07/03/2021,23,Sunday,12:15,13:15,60,2,FALSE,Student house
+CW982,,,07/03/2021,23,Sunday,13:15,16:00,165,1,TRUE,Student house
+ED145,,Tea break.,07/03/2021,23,Sunday,16:00,16:30,30,1,FALSE,Student house
+UD415,,Call family.,07/03/2021,23,Sunday,16:30,17:30,60,2,FALSE,Student house
+L418,,Play video games.,07/03/2021,23,Sunday,17:30,19:30,120,2,TRUE,Student house
+ED145,,Dinner.,07/03/2021,23,Sunday,19:30,20:30,60,2,FALSE,Student house
+H179,,Wash-up.,07/03/2021,23,Sunday,20:30,20:45,15,-1,FALSE,Student house
+R523,,,07/03/2021,23,Sunday,20:45,22:45,120,2,TRUE,Student house
+O733,,Get ready for bed.,07/03/2021,23,Sunday,22:45,23:00,15,-1,TRUE,Student house
+S801,,,07/03/2021,23,Sunday,23:00,00:00,60,1,TRUE,Student house

@@ -1,0 +1,17 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,Email checking,Alcohol consumption
+ S801,,,08/03/2021,23,Monday,00:00,13:00,780,2,0,0
+ CW982,,,08/03/2021,23,Monday,13:00,16:00,180,2,1,0
+ ED145,,,08/03/2021,23,Monday,16:00,18:00,120,2,1,0
+ CW982,,,08/03/2021,23,Monday,18:00,21:00,180,1,0,0
+ ED145,,,08/03/2021,23,Monday,21:00,22:00,60,1,0,0
+ CW982,,,08/03/2021,23,Monday,22:00,01:00,180,2,0,0
+ S801,,,09/03/2021,23,Tuesday,01:00,13:00,720,1,0,0
+ ED145,,,09/03/2021,23,Tuesday,13:00,14:00,60,2,0,0
+ CW982,,,09/03/2021,23,Tuesday,14:00,20:00,360,2,0,0
+ ED145,,,09/03/2021,23,Tuesday,20:00,22:00,120,1,0,0
+ CW982,,,09/03/2021,23,Tuesday,22:00,01:00,180,0,0,0
+ S801,,,10/03/2021,23,Wednesday,01:00,13:00,720,1,0,0
+ ED145,,,10/03/2021,23,Wednesday,13:00,14:00,60,1,0,0
+ CW982,,,10/03/2021,23,Wednesday,14:00,20:00,360,2,0,0
+ ED145,,,10/03/2021,23,Wednesday,20:00,22:00,120,2,0,0
+ CW982,,,10/03/2021,23,Wednesday,22:00,01:00,180,1,0,0

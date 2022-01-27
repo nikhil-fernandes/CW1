@@ -1,0 +1,58 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,ImportanceLevel,AnxietyLevel
+S801, ,Sleeping,04/03/2021,23,Thursday,00:00:00,06:30:00,390,2,2,-2
+H179, ,Dishes,04/03/2021,23,Thursday,06:30:00,07:00:00,30,1,1,-2
+O733, ,Making Breakfast,04/03/2021,23,Thursday,07:00:00,07:30:00,29,1,2,-1
+O733, ,Waking kid up and getting her ready,04/03/2021,23,Thursday,07:30:00,08:30:00,60,1,2,0
+ED152, ,Having Breakfast,04/03/2021,23,Thursday,08:30:00,09:30:00,59,2,2,-2
+EL642, ,Studying about research project,04/03/2021,23,Thursday,09:30:00,10:15:00,45,1,1,1
+EL642, ,Research project meeting,04/03/2021,23,Thursday,10:15:00,11:15:00,60,1,2,1
+PW101, ,Office meeting,04/03/2021,23,Thursday,11:30:00,12:30:00,60,0,2,1
+O733,L418,Making Lunch while watching TV ,04/03/2021,23,Thursday,12:30:00,13:30:00,59,2,1,-1
+ED152, ,Having Lunch with Family,04/03/2021,23,Thursday,13:30:00,14:30:00,59,2,1,-2
+L418, ,Watching TV,04/03/2021,23,Thursday,14:30:00,15:00:00,30,2,0,-2
+EL642, ,BML Lecture,04/03/2021,23,Thursday,15:15:00,16:15:00,60,1,2,1
+EL642, ,ML 2 Lecture,04/03/2021,23,Thursday,16:15:00,17:15:00,59,1,2,0
+T695, ,Going to the park with kid,04/03/2021,23,Thursday,17:30:00,18:30:00,60,2,1,-2
+CW982, ,ADS Lab 3,04/03/2021,23,Thursday,18:30:00,19:30:00,59,1,2,1
+H179, ,Helping wife with dinner ,04/03/2021,23,Thursday,19:30:00,20:00:00,30,2,1,-1
+ED152,L418,Dinner with Family while watching TV,04/03/2021,23,Thursday,20:00:00,21:00:00,59,2,1,-2
+CW982, ,ML 2 Lab 1,04/03/2021,23,Thursday,21:00:00,22:00:00,59,1,2,1
+R253, ,Novel,04/03/2021,23,Thursday,22:00:00,23:00:00,60,2,-1,-2
+S801, ,Sleeping,04/03/2021,23,Thursday,23:00:00,00:00:00,59,2,2,-2
+S801, ,Sleeping,05/03/2021,23,Friday,00:00:00,06:30:00,390,2,2,-2
+H179, ,Dishes,05/03/2021,23,Friday,06:30:00,07:00:00,30,1,1,-2
+O733, ,Making Breakfast,05/03/2021,23,Friday,07:00:00,07:30:00,29,1,2,-1
+O733, ,Waking kid up and getting her ready,05/03/2021,23,Friday,07:30:00,08:30:00,60,1,2,0
+ED152, ,Having Breakfast,05/03/2021,23,Friday,08:30:00,09:30:00,59,2,2,-2
+CW982, ,ADS Lab 3,05/03/2021,23,Friday,09:30:00,10:15:00,45,1,1,1
+EL642, ,ADS queries,05/03/2021,23,Friday,10:15:00,11:15:00,60,1,1,1
+O733,L418,Making Lunch while watching TV ,05/03/2021,23,Friday,11:30:00,12:30:00,60,0,2,1
+ED152, ,Having Lunch with Family,05/03/2021,23,Friday,12:30:00,13:00:00,29,2,1,-1
+EL642, ,ML 2 Lecture,05/03/2021,23,Friday,13:15:00,14:15:00,59,1,2,0
+L418, ,Watching TV,05/03/2021,23,Friday,14:30:00,15:00:00,30,2,0,-2
+O733, ,Homeschooling with kid,05/03/2021,23,Friday,15:00:00,16:30:00,90,1,2,0
+PW101, ,Office work,05/03/2021,23,Friday,16:30:00,17:30:00,59,1,2,1
+T695, ,Going to the park with kid,05/03/2021,23,Friday,17:30:00,18:30:00,60,2,1,-2
+CW982, ,ML 2 Lab 1,05/03/2021,23,Friday,18:30:00,19:30:00,59,1,2,1
+H179, ,Helping wife with dinner ,05/03/2021,23,Friday,19:30:00,20:00:00,30,2,1,-1
+ED152,L418,Dinner with Family while watching TV,05/03/2021,23,Friday,20:00:00,21:00:00,59,2,1,-2
+UD415, ,Netflix,05/03/2021,23,Friday,21:00:00,22:00:00,59,2,-1,-2
+R253, ,Novel,05/03/2021,23,Friday,22:00:00,23:00:00,60,2,-1,-2
+S801, ,Sleeping,05/03/2021,23,Friday,23:00:00,00:00:00,59,2,2,-2
+S801, ,Sleeping,06/03/2021,23,Saturday,00:00:00,06:30:00,390,2,2,-2
+H179, ,Dishes,06/03/2021,23,Saturday,06:30:00,07:00:00,30,1,1,-2
+O733, ,Making Breakfast,06/03/2021,23,Saturday,07:00:00,07:30:00,29,1,2,-1
+O733, ,Waking kid up and getting her ready,06/03/2021,23,Saturday,07:30:00,08:30:00,60,1,2,0
+ED152, ,Having Breakfast,06/03/2021,23,Saturday,08:30:00,09:30:00,59,2,2,-2
+T695, ,Going to the park with kid,06/03/2021,23,Saturday,09:30:00,10:30:00,60,1,1,1
+H179,L418,Cleaning the house with music playing,06/03/2021,23,Saturday,10:30:00,12:00:00,90,1,1,-2
+O733,L418,Making Lunch while watching TV ,06/03/2021,23,Saturday,12:00:00,13:00:00,59,2,2,1
+ED152, ,Having Lunch with Family,06/03/2021,23,Saturday,13:00:00,14:00:00,60,2,1,-1
+L418, ,Watching a movie with family,06/03/2021,23,Saturday,14:30:00,16:30:00,120,2,1,-2
+CW982, ,BML Lab 2,06/03/2021,23,Saturday,16:30:00,18:00:00,90,0,2,1
+T695, ,Going on a drive with family,06/03/2021,23,Saturday,18:00:00,19:00:00,59,2,0,-2
+CW982, ,ML 2 Lab 1,06/03/2021,23,Saturday,19:00:00,20:00:00,60,1,2,1
+ED152, ,Dinner with Family while watching TV,06/03/2021,23,Saturday,20:00:00,21:00:00,59,2,1,-2
+UD415, ,Netflix,06/03/2021,23,Saturday,21:00:00,22:00:00,59,2,-1,-2
+R253, ,Novel,06/03/2021,23,Saturday,22:00:00,23:00:00,60,2,-1,-2
+S801, ,Sleeping,06/03/2021,23,Saturday,23:00:00,00:00:00,59,2,2,-2

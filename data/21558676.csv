@@ -1,0 +1,22 @@
+,PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,FoodHealthScore,ExerciseQualityScore
+0,S801,nan,Sleeping,06/03/2021,23,Saturday,23:45,10:00,615.0,nan,nan,nan
+1,ED145,UD415,Eating breakfast and browsing internet (omelette),06/03/2021,23,Saturday,10:00,10:45,45.0,0.0,3.0,nan
+2,CW982,nan,Designing and making this form,06/03/2021,23,Saturday,11:00,13:00,120.0,-2.0,nan,nan
+3,ED145,UD415,Eating lunch and watching TV (chicken salad),06/03/2021,23,Saturday,13:00,15:00,120.0,1.0,5.0,nan
+4,X893,R523,Short run and audio book,06/03/2021,23,Saturday,15:00,16:00,60.0,2.0,nan,4.0
+5,CW982,nan,nan,06/03/2021,23,Saturday,16:15,18:00,105.0,0.0,nan,nan
+6,ED145,nan,Dinner takeaway,06/03/2021,23,Saturday,18:00,20:00,120.0,2.0,1.0,nan
+7,UB415,nan,Games,06/03/2021,23,Saturday,20:00,23:45,225.0,2.0,nan,nan
+8,UB415,nan,Youtube,07/03/2021,24,Sunday,11:00,13:00,120.0,0.0,nan,nan
+9,ED145,R523,Lunch and Reading,07/03/2021,24,Sunday,13:00,15:00,120.0,2.0,3.0,nan
+10,X893,nan,Run,07/03/2021,24,Sunday,15:00,15:30,30.0,0.0,nan,2.0
+11,CW982,nan,nan,07/03/2021,24,Sunday,16:00,18:00,120.0,-1.0,nan,nan
+12,ED145,nan,Sunday Dinner,07/03/2021,24,Sunday,18:00,19:00,60.0,2.0,2.0,nan
+13,UB415,nan,"Games, Browsing",07/03/2021,24,Sunday,19:00,01:00,360.0,1.0,nan,nan
+14,S801,nan,nan,08/03/2021,24,Monday,09:00,00:00,540.0,1.0,4.0,nan
+15,CW982,nan,nan,08/03/2021,24,Monday,09:30,13:00,210.0,0.0,nan,nan
+16,ED145,UD415,Lunch and TV,08/03/2021,24,Monday,13:00,15:00,120.0,1.0,nan,nan
+17,CW982,nan,nan,08/03/2021,24,Monday,15:00,17:30,150.0,0.0,nan,nan
+18,ED145,nan,nan,08/03/2021,24,Monday,17:30,18:30,60.0,2.0,4.0,nan
+19,X893,R523,Running and Audiobook,08/03/2021,24,Monday,18:30,19:30,60.0,2.0,nan,5.0
+20,UB415,nan,"Games, Browsing",08/03/2021,24,Monday,19:30,00:00,270.0,1.0,nan,nan

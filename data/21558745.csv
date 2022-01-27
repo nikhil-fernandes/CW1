@@ -1,0 +1,41 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,Focus Level,Anyone accompanied?
+S801, ,Sleep,09-03-2021,24,Tuesday,00:00,07:15,435,1,0,No
+O733, ,Meditation,09-03-2021,24,Tuesday,07:30,08:30,60,2,1,No
+X893, ,Exercise and music,09-03-2021,24,Tuesday,08:30,09:15,45,2,2,Yes
+ED152, ,Breakfast,09-03-2021,24,Tuesday,09:15,10:15,59,1,1,Yes
+EL642, ,Lectures,09-03-2021,24,Tuesday,10:15,13:00,164,1,1,No
+L418,UD415,Insta,09-03-2021,24,Tuesday,13:00,14:00,60,1,0,No
+ED152, ,Lunch,09-03-2021,24,Tuesday,14:00,15:00,59,1,1,No
+EL642, ,Lectures,09-03-2021,24,Tuesday,15:00,18:30,210,0,0,No
+H179, ,Cleaning/cooking,09-03-2021,24,Tuesday,18:30,19:30,59,-1,1,No
+ED152, ,Dinner,09-03-2021,24,Tuesday,19:30,20:30,59,2,2,Yes
+CW982, ,Assignments,09-03-2021,24,Tuesday,20:30,22:30,120,2,2,No
+L418, ,Walk,09-03-2021,24,Tuesday,22:30,23:30,59,2,0,Yes
+S801,UD415,In bed,09-03-2021,24,Tuesday,23:30,00:00,30,1,0,No
+S801, ,Sleep,10-03-2021,24,Wednesday,00:00,07:15,435,1,0,No
+O733, ,Meditation,10-03-2021,24,Wednesday,07:30,08:30,60,2,1,No
+X893,O733,Running with Music,10-03-2021,24,Wednesday,08:30,09:15,45,2,2,Yes
+ED152, ,Breakfast,10-03-2021,24,Wednesday,09:15,10:15,59,1,1,Yes
+EL642, ,Lectures,10-03-2021,24,Wednesday,10:15,13:00,164,1,1,No
+L418, ,Insta,10-03-2021,24,Wednesday,13:00,14:00,60,1,0,No
+ED152, ,Lunch,10-03-2021,24,Wednesday,14:00,15:00,59,1,1,No
+CW982, ,Assignments,10-03-2021,24,Wednesday,15:00,18:30,210,0,0,No
+H179, ,Cleaning/cooking,10-03-2021,24,Wednesday,18:30,19:30,59,-1,1,No
+ED152,UD415,Dinner,10-03-2021,24,Wednesday,19:30,20:30,59,2,2,Yes
+O733, ,Chatting,10-03-2021,24,Wednesday,20:30,21:30,60,2,2,No
+CW982, ,Assignments,10-03-2021,24,Wednesday,21:30,22:30,59,2,2,No
+L418, ,Walk,10-03-2021,24,Wednesday,22:30,23:30,59,2,0,Yes
+CW982, ,Assignments,10-03-2021,24,Wednesday,23:30,00:00,30,1,0,No
+CW982, ,Assignments,11-03-2021,24,Thursday,00:00,03:00,180,1,0,No
+S801, ,Sleep,11-03-2021,24,Thursday,03:00,09:30,390,1,0,No
+ED152, ,Breakfast,11-03-2021,24,Thursday,09:30,10:15,45,1,1,Yes
+EL642, ,Lectures,11-03-2021,24,Thursday,10:15,13:00,164,1,1,No
+L418, ,Insta,11-03-2021,24,Thursday,13:00,14:00,60,1,0,No
+ED152, ,Lunch,11-03-2021,24,Thursday,14:00,15:00,59,1,1,No
+EL642, ,LOIL,11-03-2021,24,Thursday,15:00,18:30,210,0,0,No
+CW982, ,Assignments,11-03-2021,24,Thursday,18:30,19:30,59,-1,1,No
+ED152,UD415,Dinner,11-03-2021,24,Thursday,19:30,20:30,59,2,2,Yes
+L418,UD415,Movie,11-03-2021,24,Thursday,20:30,22:30,120,2,2,No
+CW982, ,Assignments,11-03-2021,24,Thursday,22:30,23:30,59,2,2,No
+L418, ,Walk,11-03-2021,24,Thursday,22:30,23:30,59,2,0,Yes
+CW982, ,Assignments,11-03-2021,24,Thursday,23:30,00:00,30,1,0,No

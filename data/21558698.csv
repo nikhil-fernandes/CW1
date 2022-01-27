@@ -1,0 +1,25 @@
+,PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationofTime,EnjoymentScore,Talked to people,Relax your eyes
+0,S801,,Sleeping,5/3/2021,23,Friday,1:00:00,8:00:00,420,,,Yes
+1,O733,,Getting Dressed,5/3/2021,23,Friday,8:00:00,9:30:00,90,0,Yes,Yes
+2,CW982,UD415,Coursework on Laptop,5/3/2021,23,Friday,9:30:00,12:30:00,180,1,Yes,No
+3,ED145,,Lunch,5/3/2021,23,Friday,13:00:00,13:15:00,15,1,Yes,Yes
+4,L418,,Watching Series,5/3/2021,23,Friday,13:15:00,14:30:00,75,2,No,No
+5,EL642,UD415,Lectures on Device,5/3/2021,23,Friday,15:30:00,17:30:00,120,0,Yes,No
+6,X893,,Walking,5/3/2021,23,Friday,18:00:00,18:30:00,30,,Yes,Yes
+7,CW982,R523,Coursework/ Reading,5/3/2021,23,Friday,20:00:00,23:30:00,210,1,Yes,No
+8,S801,,Sleeping,8/3/2021,24,Monday,1:00:00,8:00:00,420,,,No
+9,PW101,,Work,8/3/2021,24,Monday,8:30:00,14:00:00,330,1,Yes,No
+10,L418,UD415,Watching Series,8/3/2021,24,Monday,15:00:00,17:00:00,120,2,Yes,No
+11,H179,,Room Cleaning,8/3/2021,24,Monday,17:30:00,18:00:00,30,-1,No,No
+12,CW982,UD415,Coursework on Laptop,8/3/2021,24,Monday,18:00:00,21:00:00,180,,No,No
+13,ED145,,Dinner,8/3/2021,24,Monday,21:00:00,21:25:00,25,0,Yes,Yes
+14,R523,,Reading,8/3/2021,24,Monday,22:00:00,0:00:00,120,1,No,No
+15,S801,,Sleeping,10/3/2021,24,Wednesday,0:15:00,7:00:00,405,,,
+16,O733,,Getting Dressed,10/3/2021,24,Wednesday,7:00:00,8:00:00,60,,,
+17,T695,,Travel,10/3/2021,24,Wednesday,9:00:00,9:20:00,20,1,No,Yes
+18,CW982,EL642,Coursework/Lecture,10/3/2021,24,Wednesday,9:30:00,14:00:00,270,2,Yes,No
+19,ED145,,Lunch,10/3/2021,24,Wednesday,14:15:00,15:00:00,45,1,Yes,Yes
+20,UD415,,Browsing Social Media,10/3/2021,24,Wednesday,16:00:00,17:00:00,60,2,Yes,No
+21,CW982,UD415,Coursework on Laptop,10/3/2021,24,Wednesday,17:00:00,20:00:00,180,0,Yes,No
+22,O733,,Cooking,10/3/2021,24,Wednesday,20:00:00,21:00:00,60,2,Yes,Yes
+23,R523,,Reading,10/3/2021,24,Wednesday,21:00:00,0:00:00,180,,No,No

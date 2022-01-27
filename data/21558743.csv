@@ -1,0 +1,45 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,Consumed water,If Yes: Quantity
+CW982,,ADS CW,08/03/21,25,Monday,00:00,02:15,135.0,1,Yes,1.0
+S801,,Resting time,08/03/21,25,Monday,02:15,07:45,330.0,0,Yes,0.5
+O733,,Brushing,08/03/21,25,Monday,07:45,08:15,30.0,-1,No,
+X893,,Walking,08/03/21,25,Monday,08:15,10:15,120.0,1,Yes,0.75
+ED145,,Breakfast,08/03/21,25,Monday,10:15,11:15,60.0,0,Yes,0.25
+CW982,,Assignments,08/03/21,25,Monday,11:15,14:15,180.0,1,No,
+ED145,,Lunch,08/03/21,25,Monday,14:15,15:15,60.0,2,Yes,0.25
+L418,UD415,Browsing Online apps,08/03/21,25,Monday,15:15,16:15,60.0,0,No,
+S801,,Afternoon rest,08/03/21,25,Monday,16:15,19:00,165.0,2,Yes,1.0
+L418,,Watching Movie,08/03/21,25,Monday,19:00,21:30,150.0,2,Yes,0.25
+EL642,UD415,ML Lectures Online,08/03/21,25,Monday,21:30,22:45,75.0,0,No,
+ED145,,Dinner,08/03/21,25,Monday,22:45,23:10,25.0,0,Yes,0.25
+S801,,Resting time,08/03/21,25,Monday,23:10,23:59,49.0,0,No,
+S801,,Resting time,09/03/21,25,Tuesday,00:00,07:35,455.0,0,Yes,0.25
+O733,,Burshing,09/03/21,25,Tuesday,07:35,08:00,25.0,0,No,
+H179,,Kitchen Chores,09/03/21,25,Tuesday,08:00,08:30,30.0,-1,Yes,0.25
+CW982,,ADS CW,09/03/21,25,Tuesday,08:30,09:15,45.0,1,Yes,0.25
+EL642,,RL CW concerns,09/03/21,25,Tuesday,09:15,10:15,60.0,0,No,
+UD415,UD415,Browsing Online apps,09/03/21,25,Tuesday,10:15,10:30,15.0,0,No,
+EL642,,Dessertation discussion,09/03/21,25,Tuesday,10:30,11:00,30.0,1,No,
+ED145,,Breakfast,09/03/21,25,Tuesday,11:00,11:45,45.0,0,Yes,0.5
+CW982,,ML CW,09/03/21,25,Tuesday,11:45,14:00,135.0,0,Yes,0.25
+ED145,,Lunch cooking and eating,09/03/21,25,Tuesday,14:00,15:00,60.0,0,Yes,0.25
+H179,,Shower,09/03/21,25,Tuesday,15:00,15:30,30.0,0,No,
+CW982,,ML CW,09/03/21,25,Tuesday,15:30,17:30,120.0,0,Yes,0.25
+L418,,Family Time,09/03/21,25,Tuesday,17:30,18:15,45.0,1,No,
+H179,,Groceries,09/03/21,25,Tuesday,18:15,19:45,90.0,0,Yes,0.25
+CW982,,RL CW,09/03/21,25,Tuesday,19:45,22:10,145.0,0,Yes,0.4
+ED145,,Dinner,09/03/21,25,Tuesday,22:10,22:30,20.0,1,Yes,0.2
+CW982,,ML CW,09/03/21,25,Tuesday,22:30,23:30,60.0,0,No,
+S801,,Resting time,09/03/21,25,Tuesday,23:30,23:59,29.0,2,No,
+S801,,Resting time,10/03/21,25,Wednesday,00:00,07:35,455.0,2,Yes,0.2
+O733,,Brushing,10/03/21,25,Wednesday,07:35,08:00,25.0,0,No,
+X893,,Yoga,10/03/21,25,Wednesday,08:00,09:00,60.0,1,Yes,0.5
+EL642,,IPT sessions,10/03/21,25,Wednesday,09:00,10:45,105.0,1,No,
+ED145,,Breakfast,10/03/21,25,Wednesday,10:45,11:15,30.0,0,Yes,0.25
+S801,,Headache ,10/03/21,25,Wednesday,11:15,14:00,165.0,0,No,
+CW982,,ML CW,10/03/21,25,Wednesday,14:00,15:00,60.0,2,Yes,0.5
+ED145,,Lunch and cooking,10/03/21,25,Wednesday,15:00,16:15,75.0,2,Yes,0.5
+CW982,,ML CW,10/03/21,25,Wednesday,16:15,19:15,180.0,2,No,
+L418,UD415,Watched TV,10/03/21,25,Wednesday,19:15,21:00,105.0,2,Yes,0.3
+ED145,,Dinner,10/03/21,25,Wednesday,21:00,21:30,30.0,2,Yes,0.25
+CW982,,RL CW,10/03/21,25,Wednesday,21:30,22:45,75.0,1,No,
+S801,,Resting time,10/03/21,25,Wednesday,22:45,23:59,74.0,0,Yes,0.25
